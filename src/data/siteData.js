@@ -67,11 +67,11 @@ export const srilankaBanners = [
 ];
 
 export const andamanBanners = [
-  'https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1920&q=80',
-  'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1920&q=80',
-  'https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&w=1920&q=80',
-  'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1920&q=80',
-  'https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?auto=format&fit=crop&w=1920&q=80',
+  'https://images.pexels.com/photos/10756663/pexels-photo-10756663.jpeg',
+  'https://images.pexels.com/photos/10671403/pexels-photo-10671403.jpeg',
+  'https://images.pexels.com/photos/29175703/pexels-photo-29175703.jpeg',
+  'https://images.pexels.com/photos/31793705/pexels-photo-31793705.jpeg',
+  'https://images.pexels.com/photos/2554603/pexels-photo-2554603.jpeg',
 ];
 
 export const jaipurBanners = [
@@ -83,11 +83,11 @@ export const jaipurBanners = [
 ];
 
 export const keralaBanners = [
-  'https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=1920&q=80',
+  'https://images.pexels.com/photos/962464/pexels-photo-962464.jpeg',
   'https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=1920&q=80',
-  'https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=1920&q=80',
-  'https://images.unsplash.com/photo-1566552881560-0be862a7c445?auto=format&fit=crop&w=1920&q=80',
-  'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1920&q=80',
+  'https://images.pexels.com/photos/34645211/pexels-photo-34645211.jpeg',
+  'https://images.unsplash.com/photo-1580818135730-ebd11086660b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGtlcmFsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600',
+  'https://plus.unsplash.com/premium_photo-1697729600773-5b039ef17f3b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2VyYWxhfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600',
 ];
 
 export const kashmirBanners = [
@@ -829,7 +829,7 @@ export const andamanPackages = [
     nights: '5N/6D',
     strikePrice: 32999,
     price: 28999,
-    image: 'https://images.pexels.com/photos/1320684/pexels-photo-1320684.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/7970658/pexels-photo-7970658.jpeg',
   },
   {
     id: 95,
@@ -837,7 +837,7 @@ export const andamanPackages = [
     nights: '5N/6D',
     strikePrice: 38999,
     price: 34999,
-    image: 'https://images.pexels.com/photos/1007657/pexels-photo-1007657.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.unsplash.com/photo-1636315088032-d700c2b12a8e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fGFuZGFtYW58ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600',
   },
   {
     id: 96,
@@ -845,7 +845,7 @@ export const andamanPackages = [
     nights: '5N/6D',
     strikePrice: 46999,
     price: 42999,
-    image: 'https://images.pexels.com/photos/1450360/pexels-photo-1450360.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.unsplash.com/photo-1731934379800-2f5945ad986e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDZ8fGFuZGFtYW58ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600',
   },
   {
     id: 97,
@@ -853,7 +853,7 @@ export const andamanPackages = [
     nights: '6N/7D',
     strikePrice: 41999,
     price: 35999,
-    image: 'https://images.pexels.com/photos/1320684/pexels-photo-1320684.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.unsplash.com/photo-1562428314-02aecfaf331b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fGFuZGFtYW58ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600',
   },
   {
     id: 98,
@@ -861,7 +861,7 @@ export const andamanPackages = [
     nights: '6N/7D',
     strikePrice: 48999,
     price: 41999,
-    image: 'https://images.pexels.com/photos/1007657/pexels-photo-1007657.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.unsplash.com/photo-1495296331652-02aafd80b5ba?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTF8fGFuZGFtYW58ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600',
   },
   {
     id: 99,
@@ -869,7 +869,7 @@ export const andamanPackages = [
     nights: '6N/7D',
     strikePrice: 58999,
     price: 51999,
-    image: 'https://images.pexels.com/photos/1450360/pexels-photo-1450360.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.unsplash.com/photo-1708447401021-12045b5a0436?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjB8fGFuZGFtYW58ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600',
   },
   {
     id: 100,
@@ -877,7 +877,7 @@ export const andamanPackages = [
     nights: '7N/8D',
     strikePrice: 49999,
     price: 44999,
-    image: 'https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1731934235370-29208e177720?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTJ8fGFuZGFtYW58ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600',
   },
 ];
 
@@ -989,63 +989,106 @@ export const keralaPackages = [
     nights: '4N/5D',
     strikePrice: 36999,
     price: 32999,
-    image: 'https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1491497895121-1334fc14d8c9?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGtlcmFsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600',
   },
   {
     id: 114,
-    title: '3-Star Kerala Hill Stations - 5N/6D',
-    nights: '5N/6D',
+    title: '3-Star Kerala Escape: Cochin – Munnar – Cochin - 2N/3D',
+    nights: '2N/3D',
     strikePrice: 26999,
     price: 23999,
-    image: 'https://images.unsplash.com/photo-1566552881560-0be862a7c445?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1627370778723-4d26700cd972?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fGtlcmFsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600',
   },
   {
     id: 115,
-    title: '4-Star Kerala Hill Stations - 5N/6D',
-    nights: '5N/6D',
+    title: '4-Star Kerala Escape: Cochin – Munnar – Cochin - 2N/3D',
+    nights: '2N/3D',
     strikePrice: 32999,
     price: 29999,
-    image: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1596337250940-6b891fc8b7a6?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fGtlcmFsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600',
   },
   {
     id: 116,
-    title: '5-Star Kerala Hill Stations - 5N/6D',
-    nights: '5N/6D',
+    title: '5-Star Kerala Escape: Cochin – Munnar – Cochin - 2N/3D',
+    nights: '2N/3D',
     strikePrice: 42999,
     price: 38999,
-    image: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1602094395895-fb8070114e38?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDZ8fGtlcmFsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600',
   },
   {
     id: 117,
-    title: '3-Star Kerala Ayurveda - 6N/7D',
-    nights: '6N/7D',
+    title: '3-Star 6-Day Kerala Odyssey: Cochin – Munnar – Thekkady – Alleppey – Cochin',
+    nights: '5N/6D',
     strikePrice: 32999,
     price: 28999,
-    image: 'https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1616388969587-8196f32388b4?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDh8fGtlcmFsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600',
+    notes: 'Tripunithura Hill Palace: 9 AM – 5 PM (Closed on Mondays) | Dutch Palace: Closed on Fridays | Jewish Synagogue: 10 AM – 1 PM & 3 PM – 5 PM (Closed on Fridays & Saturdays)'
   },
   {
     id: 118,
-    title: '4-Star Kerala Ayurveda - 6N/7D',
-    nights: '6N/7D',
+    title: '4-Star 6-Day Kerala Odyssey: Cochin – Munnar – Thekkady – Alleppey – Cochin',
+    nights: '5N/6D',
     strikePrice: 38999,
     price: 34999,
-    image: 'https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1582537683185-922141f18eaa?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTR8fGtlcmFsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600',
+    notes: 'Tripunithura Hill Palace: 9 AM – 5 PM (Closed on Mondays) | Dutch Palace: Closed on Fridays | Jewish Synagogue: 10 AM – 1 PM & 3 PM – 5 PM (Closed on Fridays & Saturdays)'
   },
   {
     id: 119,
-    title: '5-Star Kerala Ayurveda - 6N/7D',
-    nights: '6N/7D',
+    title: '5-Star 6-Day Kerala Odyssey: Cochin – Munnar – Thekkady – Alleppey – Cochin',
+    nights: '5N/6D',
     strikePrice: 48999,
     price: 44999,
-    image: 'https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1614090699960-b4c81be49f3c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjB8fGtlcmFsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600',
+    notes: 'Tripunithura Hill Palace: 9 AM – 5 PM (Closed on Mondays) | Dutch Palace: Closed on Fridays | Jewish Synagogue: 10 AM – 1 PM & 3 PM – 5 PM (Closed on Fridays & Saturdays)'
   },
   {
     id: 120,
-    title: 'Kerala Complete Tour - 7N/8D',
+    title: '3-Star 8 Days / 7 Nights Kanyakumari – Rameshwaram – Kerala Tour',
     nights: '7N/8D',
     strikePrice: 42999,
     price: 38999,
-    image: 'https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1702248518145-ae2c88fe7146?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njh8fGtlcmFsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600',
+  },
+  {
+    id: 133,
+    title: '4-Star 8 Days / 7 Nights Kanyakumari – Rameshwaram – Kerala Tour',
+    nights: '7N/8D',
+    strikePrice: 45999,
+    price: 41999,
+    image: 'https://images.unsplash.com/photo-1580818135730-ebd11086660b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGtlcmFsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600',
+  },
+  {
+    id: 134,
+    title: '5-Star 8 Days / 7 Nights Kanyakumari – Rameshwaram – Kerala Tour',
+    nights: '7N/8D',
+    strikePrice: 52999,
+    price: 47999,
+    image: 'https://plus.unsplash.com/premium_photo-1697729600773-5b039ef17f3b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2VyYWxhfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600',
+  },
+  {
+    id: 135,
+    title: '3-Star 7-Day Kerala Bliss: Cochin – Munnar – Thekkady – Alleppey – Cochin',
+    nights: '6N/7D',
+    strikePrice: 35999,
+    price: 31999,
+    image: 'https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 136,
+    title: '4-Star 7-Day Kerala Bliss: Cochin – Munnar – Thekkady – Alleppey – Cochin',
+    nights: '6N/7D',
+    strikePrice: 42999,
+    price: 37999,
+    image: 'https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=800&q=80',
+  },
+  {
+    id: 137,
+    title: '5-Star 7-Day Kerala Bliss: Cochin – Munnar – Thekkady – Alleppey – Cochin',
+    nights: '6N/7D',
+    strikePrice: 52999,
+    price: 47999,
+    image: 'https://images.unsplash.com/photo-1491497895121-1334fc14d8c9?auto=format&fit=crop&w=800&q=80',
   },
 ];
 
@@ -2221,7 +2264,7 @@ export const packageDetails = {
       'Day 4': 'Havelock → Port Blair + Shopping: After breakfast, board the morning cruise back to Port Blair. Spend the rest of the day shopping for souvenirs or exploring the local markets at leisure. Overnight: Port Blair',
       'Day 5': 'Departure: After breakfast, transfer to the airport for your flight home, carrying unforgettable memories of your Andaman adventure.'
     },
-    images: ['https://images.pexels.com/photos/1450360/pexels-photo-1450360.jpeg?auto=compress&cs=tinysrgb&w=800', 'https://images.pexels.com/photos/1320684/pexels-photo-1320684.jpeg?auto=compress&cs=tinysrgb&w=800', 'https://images.pexels.com/photos/1007657/pexels-photo-1007657.jpeg?auto=compress&cs=tinysrgb&w=800', 'https://images.pexels.com/photos/1320684/pexels-photo-1320684.jpeg?auto=compress&cs=tinysrgb&w=800']
+    images: ['https://plus.unsplash.com/premium_photo-1661903221734-11c7d6fc11e7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YW5kYW1hbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600','https://images.unsplash.com/photo-1640718835374-6116a99c6e6c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGFuZGFtYW58ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600','https://media.istockphoto.com/id/812945576/photo/beautiful-sunset-at-tropical-sea-with-long-tail-boat-in-south-thailand.webp?a=1&b=1&s=612x612&w=0&k=20&c=X7tpRHqUGvr3MBmtIgz4fRyrHpiOglH9TfxxfSoYRbI=','https://images.unsplash.com/photo-1542429296407-20c78e10f375?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YW5kYW1hbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600']
   },
   92: {
     name: '4-Star Alluring Andamans - 4N/5D',
@@ -2234,7 +2277,7 @@ export const packageDetails = {
       'Day 4': 'Havelock → Port Blair + Shopping: After breakfast, board the morning cruise back to Port Blair. Spend the rest of the day shopping for souvenirs or exploring the local markets at leisure. Overnight: Port Blair',
       'Day 5': 'Departure: After breakfast, transfer to the airport for your flight home, carrying unforgettable memories of your Andaman adventure.'
     },
-    images: ['https://images.pexels.com/photos/1320684/pexels-photo-1320684.jpeg?auto=compress&cs=tinysrgb&w=800', 'https://images.pexels.com/photos/1450360/pexels-photo-1450360.jpeg?auto=compress&cs=tinysrgb&w=800', 'https://images.pexels.com/photos/1007657/pexels-photo-1007657.jpeg?auto=compress&cs=tinysrgb&w=800', 'https://images.pexels.com/photos/1320684/pexels-photo-1320684.jpeg?auto=compress&cs=tinysrgb&w=800']
+    images: ['https://plus.unsplash.com/premium_photo-1661903221734-11c7d6fc11e7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YW5kYW1hbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600','https://images.unsplash.com/photo-1586359716568-3e1907e4cf9f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YW5kYW1hbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600', 'https://images.pexels.com/photos/1007657/pexels-photo-1007657.jpeg?auto=compress&cs=tinysrgb&w=800', 'https://images.unsplash.com/photo-1545762374-d18079617da8?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YW5kYW1hbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600']
   },
   93: {
     name: '5-Star Andaman Chronicles - 5N/6D',
@@ -2248,7 +2291,7 @@ export const packageDetails = {
       'Day 5': 'Neil Island ➜ Port Blair: Visit Laxmanpur Beach, Bharatpur Beach, and the natural Howrah Bridge formation. Enjoy the island\'s tranquil vibes before heading back to Port Blair in the evening. Overnight stay in Port Blair.',
       'Day 6': 'Departure: Transfer to the airport with unforgettable memories of the Andamans!'
     },
-    images: ['https://images.pexels.com/photos/1007657/pexels-photo-1007657.jpeg?auto=compress&cs=tinysrgb&w=800', 'https://images.pexels.com/photos/1450360/pexels-photo-1450360.jpeg?auto=compress&cs=tinysrgb&w=800', 'https://images.pexels.com/photos/1320684/pexels-photo-1320684.jpeg?auto=compress&cs=tinysrgb&w=800', 'https://images.pexels.com/photos/1007657/pexels-photo-1007657.jpeg?auto=compress&cs=tinysrgb&w=800']
+    images: ['https://images.pexels.com/photos/29175703/pexels-photo-29175703.jpeg', 'https://images.pexels.com/photos/6757981/pexels-photo-6757981.jpeg', 'https://images.pexels.com/photos/1320684/pexels-photo-1320684.jpeg?auto=compress&cs=tinysrgb&w=800', 'https://images.pexels.com/photos/1007657/pexels-photo-1007657.jpeg?auto=compress&cs=tinysrgb&w=800']
   },
   94: {
     name: '3-Star Andaman Chronicles - 5N/6D',
@@ -2262,7 +2305,7 @@ export const packageDetails = {
       'Day 5': 'Neil Island ➜ Port Blair: Visit Laxmanpur Beach, Bharatpur Beach, and the natural Howrah Bridge formation. Enjoy the island\'s tranquil vibes before heading back to Port Blair in the evening. Overnight stay in Port Blair.',
       'Day 6': 'Departure: Transfer to the airport with unforgettable memories of the Andamans!'
     },
-    images: ['https://images.pexels.com/photos/1320684/pexels-photo-1320684.jpeg?auto=compress&cs=tinysrgb&w=800']
+    images: ['https://images.pexels.com/photos/362690/pexels-photo-362690.jpeg','https://images.pexels.com/photos/7954230/pexels-photo-7954230.jpeg','https://images.pexels.com/photos/27817216/pexels-photo-27817216.jpeg','https://images.pexels.com/photos/10794387/pexels-photo-10794387.jpeg']
   },
   95: {
     name: '4-Star Andaman Chronicles - 5N/6D',
@@ -2276,7 +2319,7 @@ export const packageDetails = {
       'Day 5': 'Neil Island ➜ Port Blair: Visit Laxmanpur Beach, Bharatpur Beach, and the natural Howrah Bridge formation. Enjoy the island\'s tranquil vibes before heading back to Port Blair in the evening. Overnight stay in Port Blair.',
       'Day 6': 'Departure: Transfer to the airport with unforgettable memories of the Andamans!'
     },
-    images: ['https://images.pexels.com/photos/1007657/pexels-photo-1007657.jpeg?auto=compress&cs=tinysrgb&w=800']
+    images: ['https://images.pexels.com/photos/16571487/pexels-photo-16571487.jpeg','https://images.pexels.com/photos/10756695/pexels-photo-10756695.jpeg','https://images.pexels.com/photos/31793705/pexels-photo-31793705.jpeg','https://media.istockphoto.com/id/966863904/photo/the-essence-of-blue.webp?a=1&b=1&s=612x612&w=0&k=20&c=SPC15tNjFpBVA--R8XIa279wANN6ESozNZGkA8jYtCY=']
   },
   96: {
     name: '5-Star Andaman Chronicles - 5N/6D',
@@ -2290,10 +2333,10 @@ export const packageDetails = {
       'Day 5': 'Neil Island ➜ Port Blair: Visit Laxmanpur Beach, Bharatpur Beach, and the natural Howrah Bridge formation. Enjoy the island\'s tranquil vibes before heading back to Port Blair in the evening. Overnight stay in Port Blair.',
       'Day 6': 'Departure: Transfer to the airport with unforgettable memories of the Andamans!'
     },
-    images: ['https://images.pexels.com/photos/1450360/pexels-photo-1450360.jpeg?auto=compress&cs=tinysrgb&w=800']
+    images: ['https://media.istockphoto.com/id/1266075200/photo/andaman-sea-island-with-morning-sun-lighting.webp?a=1&b=1&s=612x612&w=0&k=20&c=Mk-ExzxVxWkImcS00YHNzBfKQ02nhzuZlHIJo-6EdhM=']
   },
   97: {
-    name: 'Alluring Andamans - 6N/7D',
+    name: ' Andaman Delight - 6N/7D (3-Star)',
     priceHTML: '&#8377;35,999',
     destination: 'Port Blair, Havelock - Andaman',
     itinerary: {
@@ -2303,10 +2346,10 @@ export const packageDetails = {
       'Day 4': 'Havelock → Port Blair + Shopping: After breakfast, board the morning cruise back to Port Blair. Spend the rest of the day shopping for souvenirs or exploring the local markets at leisure. Overnight: Port Blair',
       'Day 5': 'Departure: After breakfast, transfer to the airport for your flight home, carrying unforgettable memories of your Andaman adventure.'
     },
-    images: ['https://images.pexels.com/photos/1320684/pexels-photo-1320684.jpeg?auto=compress&cs=tinysrgb&w=800']
+    images: ['https://images.pexels.com/photos/2554603/pexels-photo-2554603.jpeg','https://images.pexels.com/photos/2365775/pexels-photo-2365775.jpeg','https://images.pexels.com/photos/5057066/pexels-photo-5057066.jpeg','https://images.pexels.com/photos/8300245/pexels-photo-8300245.jpeg','']
   },
   98: {
-    name: 'Alluring Andamans - 6N/7D',
+    name: ' Andaman Delight - 6N/7D (4-Star)',
     priceHTML: '&#8377;41,999',
     destination: 'Port Blair, Havelock - Andaman',
     itinerary: {
@@ -2316,10 +2359,10 @@ export const packageDetails = {
       'Day 4': 'Havelock → Port Blair + Shopping: After breakfast, board the morning cruise back to Port Blair. Spend the rest of the day shopping for souvenirs or exploring the local markets at leisure. Overnight: Port Blair',
       'Day 5': 'Departure: After breakfast, transfer to the airport for your flight home, carrying unforgettable memories of your Andaman adventure.'
     },
-    images: ['https://images.pexels.com/photos/1007657/pexels-photo-1007657.jpeg?auto=compress&cs=tinysrgb&w=800']
+    images: ['https://images.pexels.com/photos/11476544/pexels-photo-11476544.jpeg','https://images.pexels.com/photos/6938750/pexels-photo-6938750.png','https://images.pexels.com/photos/18349532/pexels-photo-18349532.jpeg','https://images.pexels.com/photos/4090345/pexels-photo-4090345.jpeg',]
   },
   99: {
-    name: 'Alluring Andamans - 6N/7D',
+    name: ' Andaman Delight - 6N/7D (5-Star)',
     priceHTML: '&#8377;51,999',
     destination: 'Port Blair, Havelock - Andaman',
     itinerary: {
@@ -2329,9 +2372,13 @@ export const packageDetails = {
       'Day 4': 'Havelock → Port Blair + Shopping: After breakfast, board the morning cruise back to Port Blair. Spend the rest of the day shopping for souvenirs or exploring the local markets at leisure. Overnight: Port Blair',
       'Day 5': 'Departure: After breakfast, transfer to the airport for your flight home, carrying unforgettable memories of your Andaman adventure.'
     },
-    images: ['https://images.pexels.com/photos/1450360/pexels-photo-1450360.jpeg?auto=compress&cs=tinysrgb&w=800']
+    images: ['https://images.pexels.com/photos/31754070/pexels-photo-31754070.jpeg','https://images.pexels.com/photos/31846442/pexels-photo-31846442.jpeg','https://images.pexels.com/photos/2403207/pexels-photo-2403207.jpeg','https://images.pexels.com/photos/7954230/pexels-photo-7954230.jpeg']
   },
-  100: { name: 'Andaman Grand Tour - 7N/8D', priceHTML: '&#8377;44,999', destination: 'Port Blair, Andaman', images: ['https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=800&q=80'] },
+  100: { name: 'Andaman Grand Tour - 7N/8D', priceHTML: '&#8377;44,999', destination: 'Port Blair, Andaman', images: ['https://images.pexels.com/photos/27817216/pexels-photo-27817216.jpeg','https://images.pexels.com/photos/10794387/pexels-photo-10794387.jpeg','https://images.pexels.com/photos/30658207/pexels-photo-30658207.jpeg','https://images.pexels.com/photos/16571684/pexels-photo-16571684.jpeg'] },
+  // Third Row Andaman Packages
+  121: { name: 'Alluring Andamans - 6N/7D', priceHTML: '&#8377;32,999', destination: 'Port Blair, Havelock - Andaman', images: ['https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=800&q=80'] },
+  122: { name: 'Alluring Andamans - 6N/7D', priceHTML: '&#8377;38,999', destination: 'Port Blair, Havelock - Andaman', images: ['https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=800&q=80'] },
+  123: { name: 'Alluring Andamans - 6N/7D', priceHTML: '&#8377;45,999', destination: 'Port Blair, Havelock - Andaman', images: ['https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=800&q=80'] },
   // Jaipur Package Details (101-110)
   101: { name: '3-Star Jaipur Heritage - 3N/4D', priceHTML: '&#8377;15,999', destination: 'Jaipur, Rajasthan', images: ['https://images.unsplash.com/photo-1477587458883-47145ed94245?auto=format&fit=crop&w=800&q=80'] },
   102: { name: '4-Star Jaipur Heritage - 3N/4D', priceHTML: '&#8377;21,999', destination: 'Jaipur, Rajasthan', images: ['https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=800&q=80'] },
@@ -2344,27 +2391,232 @@ export const packageDetails = {
   109: { name: '5-Star Jaipur Palace Tour - 5N/6D', priceHTML: '&#8377;38,999', destination: 'Jaipur, Rajasthan', images: ['https://images.unsplash.com/photo-1540611025311-01df3cef54b5?auto=format&fit=crop&w=800&q=80'] },
   110: { name: 'Jaipur Golden Triangle - 6N/7D', priceHTML: '&#8377;34,999', destination: 'Jaipur, Rajasthan', images: ['https://images.unsplash.com/photo-1545569341-9eb8b30979d9?auto=format&fit=crop&w=800&q=80'] },
   // Kerala Package Details (111-120)
-  111: { name: '3-Star Kerala Backwaters - 4N/5D', priceHTML: '&#8377;19,999', destination: 'Kochi, Kerala', images: ['https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80'] },
-  112: { name: '4-Star Kerala Backwaters - 4N/5D', priceHTML: '&#8377;25,999', destination: 'Kochi, Kerala', images: ['https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=800&q=80'] },
-  113: { name: '5-Star Kerala Backwaters - 4N/5D', priceHTML: '&#8377;32,999', destination: 'Kochi, Kerala', images: ['https://images.unsplash.com/photo-1514282401047-d79a71a590e8?auto=format&fit=crop&w=800&q=80'] },
-  114: { name: '3-Star Kerala Hill Stations - 5N/6D', priceHTML: '&#8377;23,999', destination: 'Kochi, Kerala', images: ['https://images.unsplash.com/photo-1566552881560-0be862a7c445?auto=format&fit=crop&w=800&q=80'] },
-  115: { name: '4-Star Kerala Hill Stations - 5N/6D', priceHTML: '&#8377;29,999', destination: 'Kochi, Kerala', images: ['https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=800&q=80'] },
-  116: { name: '5-Star Kerala Hill Stations - 5N/6D', priceHTML: '&#8377;38,999', destination: 'Kochi, Kerala', images: ['https://images.unsplash.com/photo-1578662996442-48f60103fc96?auto=format&fit=crop&w=800&q=80'] },
-  117: { name: '3-Star Kerala Ayurveda - 6N/7D', priceHTML: '&#8377;28,999', destination: 'Kochi, Kerala', images: ['https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=800&q=80'] },
-  118: { name: '4-Star Kerala Ayurveda - 6N/7D', priceHTML: '&#8377;34,999', destination: 'Kochi, Kerala', images: ['https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&w=800&q=80'] },
-  119: { name: '5-Star Kerala Ayurveda - 6N/7D', priceHTML: '&#8377;44,999', destination: 'Kochi, Kerala', images: ['https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?auto=format&fit=crop&w=800&q=80'] },
-  120: { name: 'Kerala Complete Tour - 7N/8D', priceHTML: '&#8377;38,999', destination: 'Kochi, Kerala', images: ['https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=800&q=80'] },
-  // Kashmir Package Details (121-130)
-  121: { name: '3-Star Kashmir Paradise - 4N/5D', priceHTML: '&#8377;23,999', destination: 'Srinagar, Kashmir', images: ['https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=800&q=80'] },
-  122: { name: '4-Star Kashmir Paradise - 4N/5D', priceHTML: '&#8377;29,999', destination: 'Srinagar, Kashmir', images: ['https://images.unsplash.com/photo-1580674684081-7617fbf4d82d?auto=format&fit=crop&w=800&q=80'] },
-  123: { name: '5-Star Kashmir Paradise - 4N/5D', priceHTML: '&#8377;38,999', destination: 'Srinagar, Kashmir', images: ['https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=800&q=80'] },
-  124: { name: '3-Star Kashmir Valley - 5N/6D', priceHTML: '&#8377;27,999', destination: 'Srinagar, Kashmir', images: ['https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?auto=format&fit=crop&w=800&q=80'] },
-  125: { name: '4-Star Kashmir Valley - 5N/6D', priceHTML: '&#8377;33,999', destination: 'Srinagar, Kashmir', images: ['https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=800&q=80'] },
-  126: { name: '5-Star Kashmir Valley - 5N/6D', priceHTML: '&#8377;42,999', destination: 'Srinagar, Kashmir', images: ['https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=800&q=80'] },
-  127: { name: '3-Star Kashmir Honeymoon - 6N/7D', priceHTML: '&#8377;31,999', destination: 'Srinagar, Kashmir', images: ['https://images.unsplash.com/photo-1559804506-669a67965ba0?auto=format&fit=crop&w=800&q=80'] },
-  128: { name: '4-Star Kashmir Honeymoon - 6N/7D', priceHTML: '&#8377;37,999', destination: 'Srinagar, Kashmir', images: ['https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=800&q=80'] },
-  129: { name: '5-Star Kashmir Honeymoon - 6N/7D', priceHTML: '&#8377;48,999', destination: 'Srinagar, Kashmir', images: ['https://images.unsplash.com/photo-1508964942454-1a56651d54ac?auto=format&fit=crop&w=800&q=80'] },
-  130: { name: 'Kashmir Complete Tour - 7N/8D', priceHTML: '&#8377;42,999', destination: 'Srinagar, Kashmir', images: ['https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=800&q=80'] },
+  111: {
+    name: '3-Star 5 Days / 4 Nights Kerala Tour: Cochin – Alleppey – Munnar – Cochin',
+    priceHTML: '&#8377;19,999',
+    destination: 'Cochin, Alleppey, Munnar - Kerala',
+    itinerary: {
+      'Day 1': 'Cochin to Alleppey – The Houseboat Experience: Your Kerala journey begins as our representative welcomes you in Cochin. From here, embark on a scenic drive to Alleppey, the Venice of the East. By 12:00 Noon, board your private Kerala houseboat and set sail across the tranquil backwaters. Enjoy a welcome drink as you drift past paddy fields, coconut groves, and charming village life. The cruise halts for an hour during lunch and continues until 5:30 PM, after which the boat anchors for the night. Enjoy the peaceful evening under the starlit sky, surrounded by the soothing rhythm of the waters. Wake up to a calm morning, followed by a one-hour cruise before check-out at 9:00 AM. Houseboats are available in Deluxe, Premium, and Luxury categories — each offering its own comfort and charm. Onboard, you\'ll be treated to tea, snacks, mineral water, lunch, dinner, and breakfast — all freshly prepared in authentic Kerala style. Overnight stay on the houseboat.',
+      'Day 2': 'Alleppey to Munnar – Journey to the Hills: After breakfast, bid farewell to the backwaters and drive toward Munnar, Kerala\'s most loved hill station. The journey takes about five hours, winding through lush greenery, spice plantations, and misty mountain trails. If you have only one night in Munnar, it\'s best to start early from Alleppey to maximize your sightseeing time upon arrival. If you\'re staying two nights, you may choose to visit Alleppey Beach in the morning before starting your drive. On arrival, check in to your hotel and relax amidst Munnar\'s serene hillscape.',
+      'Day 3': 'Exploring Munnar – The Hill Station Paradise: Begin your day after breakfast around 9:00 AM with a visit to Eravikulam National Park, home to the endangered Nilgiri Tahr and panoramic views of the rolling tea gardens. (Note: The park remains closed from February to April during the breeding season. Tickets can be booked in advance or at the counter.) Next, visit the Tea Museum, which offers a fascinating glimpse into Munnar\'s rich tea history. (Closed on Mondays) After lunch, continue to Mattupetty Dam, Echo Point, Kundala Lake, and several breathtaking viewpoints. End the day with visits to Pothamedu View Point and the Botanical Garden, before returning to your hotel for an overnight stay.',
+      'Day 4': 'Cochin – The Cultural Capital: After breakfast, drive back to Cochin, a city that beautifully blends colonial heritage with vibrant coastal life. Depending on your arrival time, enjoy sightseeing that includes Fort Kochi, Navy Museum, St. Francis Church, Chinese Fishing Nets, Santa Cruz Cathedral Basilica, Mattancherry Palace, Jewish Synagogue, Marine Drive, Marine Walkway, and the Tripunithura Hill Palace. Spend the evening shopping for souvenirs or exploring Cochin\'s charming local markets. Overnight stay at Cochin. Note: Hill Palace: 9 AM – 4 PM (Closed on Mondays), Dutch Palace: Closed on Fridays, Jewish Synagogue: 10 AM – 1 PM & 3 PM – 5 PM (Closed on Fridays & Saturdays)',
+      'Day 5': 'Cochin Sightseeing & Departure: After breakfast, continue exploring Cochin — revisiting any attractions you might have missed or simply relaxing by the waterfront. If time allows, you can indulge in shopping at Cochin\'s local markets, known for spices, handicrafts, and jewelry. Later, our representative will drop you at Cochin Airport/Railway Station/Bus Stand, assisting you with departure formalities as you bid farewell to Kerala. Carry home the delightful memories of your Kerala journey with Paradise Holidays Cochin — a blend of backwaters, hills, and coastal charm that will stay in your heart forever. Note: Hill Palace: 9 AM – 5 PM (Closed on Mondays), Dutch Palace: Closed on Fridays, Jewish Synagogue: 10 AM – 1 PM & 3 PM – 5 PM (Closed on Fridays & Saturdays)'
+    },
+    images: ['https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8a2VyYWxhfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600','https://images.pexels.com/photos/34645211/pexels-photo-34645211.jpeg','https://images.unsplash.com/photo-1583513645242-25a32d451084?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8a2VyYWxhfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600','https://plus.unsplash.com/premium_photo-1697730310113-e44fced8e86c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8a2VyYWxhfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600']
+  },
+  112: {
+    name: '4-Star 5 Days / 4 Nights Kerala Tour: Cochin – Alleppey – Munnar – Cochin',
+    priceHTML: '&#8377;25,999',
+    destination: 'Cochin, Alleppey, Munnar - Kerala',
+    itinerary: {
+      'Day 1': 'Cochin to Alleppey – The Houseboat Experience: Your Kerala journey begins as our representative welcomes you in Cochin. From here, embark on a scenic drive to Alleppey, the Venice of the East. By 12:00 Noon, board your private Kerala houseboat and set sail across the tranquil backwaters. Enjoy a welcome drink as you drift past paddy fields, coconut groves, and charming village life. The cruise halts for an hour during lunch and continues until 5:30 PM, after which the boat anchors for the night. Enjoy the peaceful evening under the starlit sky, surrounded by the soothing rhythm of the waters. Wake up to a calm morning, followed by a one-hour cruise before check-out at 9:00 AM. Houseboats are available in Deluxe, Premium, and Luxury categories — each offering its own comfort and charm. Onboard, you\'ll be treated to tea, snacks, mineral water, lunch, dinner, and breakfast — all freshly prepared in authentic Kerala style. Overnight stay on the houseboat.',
+      'Day 2': 'Alleppey to Munnar – Journey to the Hills: After breakfast, bid farewell to the backwaters and drive toward Munnar, Kerala\'s most loved hill station. The journey takes about five hours, winding through lush greenery, spice plantations, and misty mountain trails. If you have only one night in Munnar, it\'s best to start early from Alleppey to maximize your sightseeing time upon arrival. If you\'re staying two nights, you may choose to visit Alleppey Beach in the morning before starting your drive. On arrival, check in to your hotel and relax amidst Munnar\'s serene hillscape.',
+      'Day 3': 'Exploring Munnar – The Hill Station Paradise: Begin your day after breakfast around 9:00 AM with a visit to Eravikulam National Park, home to the endangered Nilgiri Tahr and panoramic views of the rolling tea gardens. (Note: The park remains closed from February to April during the breeding season. Tickets can be booked in advance or at the counter.) Next, visit the Tea Museum, which offers a fascinating glimpse into Munnar\'s rich tea history. (Closed on Mondays) After lunch, continue to Mattupetty Dam, Echo Point, Kundala Lake, and several breathtaking viewpoints. End the day with visits to Pothamedu View Point and the Botanical Garden, before returning to your hotel for an overnight stay.',
+      'Day 4': 'Cochin – The Cultural Capital: After breakfast, drive back to Cochin, a city that beautifully blends colonial heritage with vibrant coastal life. Depending on your arrival time, enjoy sightseeing that includes Fort Kochi, Navy Museum, St. Francis Church, Chinese Fishing Nets, Santa Cruz Cathedral Basilica, Mattancherry Palace, Jewish Synagogue, Marine Drive, Marine Walkway, and the Tripunithura Hill Palace. Spend the evening shopping for souvenirs or exploring Cochin\'s charming local markets. Overnight stay at Cochin. Note: Hill Palace: 9 AM – 4 PM (Closed on Mondays), Dutch Palace: Closed on Fridays, Jewish Synagogue: 10 AM – 1 PM & 3 PM – 5 PM (Closed on Fridays & Saturdays)',
+      'Day 5': 'Cochin Sightseeing & Departure: After breakfast, continue exploring Cochin — revisiting any attractions you might have missed or simply relaxing by the waterfront. If time allows, you can indulge in shopping at Cochin\'s local markets, known for spices, handicrafts, and jewelry. Later, our representative will drop you at Cochin Airport/Railway Station/Bus Stand, assisting you with departure formalities as you bid farewell to Kerala. Carry home the delightful memories of your Kerala journey with Paradise Holidays Cochin — a blend of backwaters, hills, and coastal charm that will stay in your heart forever. Note: Hill Palace: 9 AM – 5 PM (Closed on Mondays), Dutch Palace: Closed on Fridays, Jewish Synagogue: 10 AM – 1 PM & 3 PM – 5 PM (Closed on Fridays & Saturdays)'
+    },
+    images: ['https://images.unsplash.com/photo-1624554305378-0f440dd3a8c1?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGtlcmFsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600','https://images.unsplash.com/photo-1704365159747-1f7b8913044f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGtlcmFsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600','https://images.unsplash.com/photo-1593693401060-9fc28cf9e368?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fGtlcmFsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600','https://images.unsplash.com/photo-1609828913552-f9138ed9e42d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fGtlcmFsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600']
+  },
+  113: {
+    name: '5-Star 5 Days / 4 Nights Kerala Tour: Cochin – Alleppey – Munnar – Cochin',
+    priceHTML: '&#8377;32,999',
+    destination: 'Cochin, Alleppey, Munnar - Kerala',
+    itinerary: {
+      'Day 1': 'Cochin to Alleppey – The Houseboat Experience: Your Kerala journey begins as our representative welcomes you in Cochin. From here, embark on a scenic drive to Alleppey, the Venice of the East. By 12:00 Noon, board your private Kerala houseboat and set sail across the tranquil backwaters. Enjoy a welcome drink as you drift past paddy fields, coconut groves, and charming village life. The cruise halts for an hour during lunch and continues until 5:30 PM, after which the boat anchors for the night. Enjoy the peaceful evening under the starlit sky, surrounded by the soothing rhythm of the waters. Wake up to a calm morning, followed by a one-hour cruise before check-out at 9:00 AM. Houseboats are available in Deluxe, Premium, and Luxury categories — each offering its own comfort and charm. Onboard, you\'ll be treated to tea, snacks, mineral water, lunch, dinner, and breakfast — all freshly prepared in authentic Kerala style. Overnight stay on the houseboat.',
+      'Day 2': 'Alleppey to Munnar – Journey to the Hills: After breakfast, bid farewell to the backwaters and drive toward Munnar, Kerala\'s most loved hill station. The journey takes about five hours, winding through lush greenery, spice plantations, and misty mountain trails. If you have only one night in Munnar, it\'s best to start early from Alleppey to maximize your sightseeing time upon arrival. If you\'re staying two nights, you may choose to visit Alleppey Beach in the morning before starting your drive. On arrival, check in to your hotel and relax amidst Munnar\'s serene hillscape.',
+      'Day 3': 'Exploring Munnar – The Hill Station Paradise: Begin your day after breakfast around 9:00 AM with a visit to Eravikulam National Park, home to the endangered Nilgiri Tahr and panoramic views of the rolling tea gardens. (Note: The park remains closed from February to April during the breeding season. Tickets can be booked in advance or at the counter.) Next, visit the Tea Museum, which offers a fascinating glimpse into Munnar\'s rich tea history. (Closed on Mondays) After lunch, continue to Mattupetty Dam, Echo Point, Kundala Lake, and several breathtaking viewpoints. End the day with visits to Pothamedu View Point and the Botanical Garden, before returning to your hotel for an overnight stay.',
+      'Day 4': 'Cochin – The Cultural Capital: After breakfast, drive back to Cochin, a city that beautifully blends colonial heritage with vibrant coastal life. Depending on your arrival time, enjoy sightseeing that includes Fort Kochi, Navy Museum, St. Francis Church, Chinese Fishing Nets, Santa Cruz Cathedral Basilica, Mattancherry Palace, Jewish Synagogue, Marine Drive, Marine Walkway, and the Tripunithura Hill Palace. Spend the evening shopping for souvenirs or exploring Cochin\'s charming local markets. Overnight stay at Cochin. Note: Hill Palace: 9 AM – 4 PM (Closed on Mondays), Dutch Palace: Closed on Fridays, Jewish Synagogue: 10 AM – 1 PM & 3 PM – 5 PM (Closed on Fridays & Saturdays)',
+      'Day 5': 'Cochin Sightseeing & Departure: After breakfast, continue exploring Cochin — revisiting any attractions you might have missed or simply relaxing by the waterfront. If time allows, you can indulge in shopping at Cochin\'s local markets, known for spices, handicrafts, and jewelry. Later, our representative will drop you at Cochin Airport/Railway Station/Bus Stand, assisting you with departure formalities as you bid farewell to Kerala. Carry home the delightful memories of your Kerala journey with Paradise Holidays Cochin — a blend of backwaters, hills, and coastal charm that will stay in your heart forever. Note: Hill Palace: 9 AM – 5 PM (Closed on Mondays), Dutch Palace: Closed on Fridays, Jewish Synagogue: 10 AM – 1 PM & 3 PM – 5 PM (Closed on Fridays & Saturdays)'
+    },
+    images: ['https://images.pexels.com/photos/731423/pexels-photo-731423.jpeg','https://images.unsplash.com/photo-1663597675745-96a3f784369e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8a2VyYWxhJTIwdG91cmlzbXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600','https://images.unsplash.com/photo-1593693411515-c20261bcad6e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8a2VyYWxhJTIwdG91cmlzbXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600','https://images.unsplash.com/photo-1669077411489-aecca1c06d92?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGtlcmFsYSUyMHRvdXJpc218ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600']
+  },
+  114: {
+    name: '3-Star Kerala Escape: Cochin – Munnar – Cochin - 2N/3D',
+    priceHTML: '&#8377;23,999',
+    destination: 'Kochi, Kerala',
+    itinerary: {
+      'Day 1': 'Journey from Cochin to Munnar – The Hills Beckon: Your Kerala getaway begins as our representative warmly welcomes you at Cochin Airport/Railway Station/Bus Stand. From here, embark on a scenic drive to the mist-clad hills of Munnar, where every curve of the road offers a postcard-perfect view. En route, pause to admire the cascading beauty of Cheeyappara and Valara Waterfalls, and breathe in the aroma of lush tea plantations and spice gardens that line your path. As you reach Munnar, check into your hotel and take the evening at leisure. Unwind, sip on a cup of freshly brewed tea, and let the cool mountain breeze set the tone for your hill-station retreat.',
+      'Day 2': 'Exploring the Magic of Munnar: After breakfast, set out around 9:00 AM for a day filled with nature\'s splendor and colonial charm. Your first stop is the famous Eravikulam National Park, home to the endangered Nilgiri Tahr and breathtaking views of the rolling tea-clad hills. (Note: The park remains closed from February to April during the Tahr\'s breeding season. Tickets can be pre-booked or purchased on-site.) Next, explore the Tea Museum, a delightful journey through Munnar\'s aromatic tea legacy. (Closed on Mondays) After lunch, continue to Mattupetty Dam, Echo Point, and Kundala Lake, where you can enjoy a boat ride or simply lose yourself in the serenity of the waters. Later, stop at Pothamedu Viewpoint and the Botanical Garden for some spectacular photo moments. Return to your hotel in the evening — relax, reflect, and relish the tranquility that only Munnar can offer.',
+      'Day 3': 'Munnar to Cochin – A Touch of History and Culture: After breakfast, bid farewell to the hills and drive back to Cochin, the Queen of the Arabian Sea. If time allows, enjoy a complimentary sightseeing tour through Cochin\'s cultural gems — visit Fort Kochi, St. Francis Church, the iconic Chinese Fishing Nets, and the elegant Santa Cruz Basilica. Dive into history at the Mattancherry Palace (closed on Fridays) and the Jewish Synagogue (open 10 AM–1 PM, 3–5 PM; closed on Fridays & Saturdays). You may also explore the Hill Palace at Tripunithura (open 9 AM–5 PM; closed on Mondays), and wind down with a stroll along Marine Drive, soaking in the sunset or enjoying a peaceful boat ride. Later, our representative will drop you at your departure point with all necessary assistance, as you carry home the serene charm and unforgettable memories of your Kerala holiday with Paradise Holidays.'
+    },
+    images: ['https://images.unsplash.com/photo-1723731065587-eacb1c3b37d8?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGtlcmFsYSUyMHRvdXJpc218ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600','https://images.unsplash.com/photo-1625721838087-c46e51c89558?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGtlcmFsYSUyMHRvdXJpc218ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600','https://images.unsplash.com/photo-1602477423407-77e66791c353?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fGtlcmFsYSUyMHRvdXJpc218ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600','https://images.unsplash.com/photo-1661174607003-d9d36388c916?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fGtlcmFsYSUyMHRvdXJpc218ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600']
+  },
+  115: {
+    name: '4-Star Kerala Escape: Cochin – Munnar – Cochin - 2N/3D',
+    priceHTML: '&#8377;29,999',
+    destination: 'Kochi, Kerala',
+    itinerary: {
+      'Day 1': 'Journey from Cochin to Munnar – The Hills Beckon: Your Kerala getaway begins as our representative warmly welcomes you at Cochin Airport/Railway Station/Bus Stand. From here, embark on a scenic drive to the mist-clad hills of Munnar, where every curve of the road offers a postcard-perfect view. En route, pause to admire the cascading beauty of Cheeyappara and Valara Waterfalls, and breathe in the aroma of lush tea plantations and spice gardens that line your path. As you reach Munnar, check into your hotel and take the evening at leisure. Unwind, sip on a cup of freshly brewed tea, and let the cool mountain breeze set the tone for your hill-station retreat.',
+      'Day 2': 'Exploring the Magic of Munnar: After breakfast, set out around 9:00 AM for a day filled with nature\'s splendor and colonial charm. Your first stop is the famous Eravikulam National Park, home to the endangered Nilgiri Tahr and breathtaking views of the rolling tea-clad hills. (Note: The park remains closed from February to April during the Tahr\'s breeding season. Tickets can be pre-booked or purchased on-site.) Next, explore the Tea Museum, a delightful journey through Munnar\'s aromatic tea legacy. (Closed on Mondays) After lunch, continue to Mattupetty Dam, Echo Point, and Kundala Lake, where you can enjoy a boat ride or simply lose yourself in the serenity of the waters. Later, stop at Pothamedu Viewpoint and the Botanical Garden for some spectacular photo moments. Return to your hotel in the evening — relax, reflect, and relish the tranquility that only Munnar can offer.',
+      'Day 3': 'Munnar to Cochin – A Touch of History and Culture: After breakfast, bid farewell to the hills and drive back to Cochin, the Queen of the Arabian Sea. If time allows, enjoy a complimentary sightseeing tour through Cochin\'s cultural gems — visit Fort Kochi, St. Francis Church, the iconic Chinese Fishing Nets, and the elegant Santa Cruz Basilica. Dive into history at the Mattancherry Palace (closed on Fridays) and the Jewish Synagogue (open 10 AM–1 PM, 3–5 PM; closed on Fridays & Saturdays). You may also explore the Hill Palace at Tripunithura (open 9 AM–5 PM; closed on Mondays), and wind down with a stroll along Marine Drive, soaking in the sunset or enjoying a peaceful boat ride. Later, our representative will drop you at your departure point with all necessary assistance, as you carry home the serene charm and unforgettable memories of your Kerala holiday with Paradise Holidays.'
+    },
+    images: ['https://plus.unsplash.com/premium_photo-1730035378725-6d578b86574e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTN8fGtlcmFsYSUyMHRvdXJpc218ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600','https://images.unsplash.com/photo-1671461842886-8ff8a48c9f61?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTZ8fGtlcmFsYSUyMHRvdXJpc218ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600','https://images.pexels.com/photos/1065753/pexels-photo-1065753.jpeg','https://images.pexels.com/photos/731423/pexels-photo-731423.jpeg']
+  },
+  116: {
+    name: '5-Star Kerala Escape: Cochin – Munnar – Cochin - 2N/3D',
+    priceHTML: '&#8377;38,999',
+    destination: 'Kochi, Kerala',
+    itinerary: {
+      'Day 1': 'Journey from Cochin to Munnar – The Hills Beckon: Your Kerala getaway begins as our representative warmly welcomes you at Cochin Airport/Railway Station/Bus Stand. From here, embark on a scenic drive to the mist-clad hills of Munnar, where every curve of the road offers a postcard-perfect view. En route, pause to admire the cascading beauty of Cheeyappara and Valara Waterfalls, and breathe in the aroma of lush tea plantations and spice gardens that line your path. As you reach Munnar, check into your hotel and take the evening at leisure. Unwind, sip on a cup of freshly brewed tea, and let the cool mountain breeze set the tone for your hill-station retreat.',
+      'Day 2': 'Exploring the Magic of Munnar: After breakfast, set out around 9:00 AM for a day filled with nature\'s splendor and colonial charm. Your first stop is the famous Eravikulam National Park, home to the endangered Nilgiri Tahr and breathtaking views of the rolling tea-clad hills. (Note: The park remains closed from February to April during the Tahr\'s breeding season. Tickets can be pre-booked or purchased on-site.) Next, explore the Tea Museum, a delightful journey through Munnar\'s aromatic tea legacy. (Closed on Mondays) After lunch, continue to Mattupetty Dam, Echo Point, and Kundala Lake, where you can enjoy a boat ride or simply lose yourself in the serenity of the waters. Later, stop at Pothamedu Viewpoint and the Botanical Garden for some spectacular photo moments. Return to your hotel in the evening — relax, reflect, and relish the tranquility that only Munnar can offer.',
+      'Day 3': 'Munnar to Cochin – A Touch of History and Culture: After breakfast, bid farewell to the hills and drive back to Cochin, the Queen of the Arabian Sea. If time allows, enjoy a complimentary sightseeing tour through Cochin\'s cultural gems — visit Fort Kochi, St. Francis Church, the iconic Chinese Fishing Nets, and the elegant Santa Cruz Basilica. Dive into history at the Mattancherry Palace (closed on Fridays) and the Jewish Synagogue (open 10 AM–1 PM, 3–5 PM; closed on Fridays & Saturdays). You may also explore the Hill Palace at Tripunithura (open 9 AM–5 PM; closed on Mondays), and wind down with a stroll along Marine Drive, soaking in the sunset or enjoying a peaceful boat ride. Later, our representative will drop you at your departure point with all necessary assistance, as you carry home the serene charm and unforgettable memories of your Kerala holiday with Paradise Holidays.'
+    },
+    images: ['https://images.pexels.com/photos/440731/pexels-photo-440731.jpeg','https://images.pexels.com/photos/1107717/pexels-photo-1107717.jpeg','https://images.unsplash.com/photo-1755547926155-a6368d227732?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fGtlcmFsYSUyMGxhbmRzY2FwZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600','https://images.unsplash.com/photo-1643534304426-c7b5148201bf?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTd8fGtlcmFsYSUyMGxhbmRzY2FwZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600']
+  },
+  117: {
+    name: '3-Star 7-Day Kerala Bliss: Cochin – Munnar – Thekkady – Alleppey – Cochin',
+    priceHTML: '&#8377;24,999',
+    destination: 'Cochin, Munnar, Thekkady, Alleppey - Kerala',
+    itinerary: {
+      'Day 1': 'Cochin to Munnar – A Drive Through Nature\'s Canvas: Your Kerala experience begins as our representative welcomes you at Cochin Airport/Railway Station/Bus Stand. From here, embark on a picturesque drive to the misty hills of Munnar, a journey adorned with endless greenery and the scent of fresh tea leaves. En route, witness the cascading beauty of Cheeyappara and Valara Waterfalls, and take in the scenic charm of tea plantations and spice gardens. Upon arrival in Munnar, check in to your hotel and relax for the evening. Let the calm mountain air and lush surroundings refresh your senses as you settle in for your hill-station retreat.',
+      'Day 2': 'Exploring the Wonders of Munnar: After a hearty breakfast, begin your day around 9:00 AM with a visit to Eravikulam National Park, home to the endangered Nilgiri Tahr and known for its sweeping vistas of tea-clad hills. (Note: The park remains closed from February to April due to the breeding season of the Nilgiri Tahr. Tickets can be booked online or purchased at the counter.) Continue to the Tea Museum, where Munnar\'s rich tea-making legacy unfolds. (Closed on Mondays) Post lunch, visit Mattupetty Dam, Echo Point, and Kundala Lake, each offering stunning landscapes and tranquil moments. Conclude your sightseeing with visits to Pothamedu View Point and the Botanical Garden, before returning to your hotel for a peaceful evening.',
+      'Day 3': 'Munnar to Thekkady – From Tea Gardens to Wild Forests: After breakfast, set out for Thekkady, a scenic 3–4 hour drive through winding roads and lush plantations. On arrival, enjoy an unforgettable boating experience at Periyar Lake, where you can spot elephants, deer, and exotic birds as you glide through the serene waters of the Periyar Wildlife Sanctuary. (Tickets can be booked in advance or purchased directly.) In the evening, explore a range of optional activities — witness a mesmerizing Kathakali performance, enjoy an elephant ride or elephant bath, experience the musical fountain, or indulge in a rejuvenating Ayurvedic massage (on direct payment basis).',
+      'Day 4': 'Thekkady – Adventures and Serenity: Spend your second day in Thekkady at your own pace. You may choose to relax at your resort or take part in the many eco-tourism activities the region offers. Adventure seekers can opt for the Gavi full-day tour, trekking, bamboo rafting, nature walks, green walks, tiger trails, or jungle patrols — each offering a unique glimpse into Kerala\'s untamed wilderness. (All activities are optional and have separate entry fees.) Overnight stay at Thekkady. (For more insights, explore our detailed blog on Thekkady.)',
+      'Day 5': 'Thekkady to Alleppey – The Backwater Gateway: After breakfast, drive to Alleppey, often called the Venice of the East. Upon arrival, check into your resort and spend the day unwinding amidst the tranquil backwaters. You can visit the Alleppey Beach, go shopping for local handicrafts, or simply relax and enjoy the resort\'s amenities. Overnight stay at the Alleppey resort.',
+      'Day 6': 'Alleppey Houseboat – A Day on the Backwaters: After breakfast, board your private Kerala houseboat by 12:00 Noon. Cruise gently through the palm-fringed canals and shimmering lakes, passing by village life, lush paddy fields, and coconut groves. The cruise continues until 5:30 PM, with a halt for a traditional Kerala lunch. As the sun sets, the boat anchors for the night, letting you soak in the peace of the backwaters. Enjoy a delightful onboard experience with a welcome drink, tea, snacks, mineral water, lunch, dinner, and breakfast. In the morning, enjoy a one-hour cruise before check-out at 9:00 AM. Houseboats are available in Deluxe, Premium, and Luxury categories — where Deluxe offers a comfortable basic experience, while Premium and Luxury promise added elegance and indulgence.',
+      'Day 7': 'Alleppey to Cochin – Bidding Farewell: After breakfast, visit Alleppey Beach one last time before departing for Cochin. If time permits, enjoy a complimentary sightseeing tour that includes Fort Kochi, Navy Museum, St. Francis Church, Chinese Fishing Nets, Santa Cruz Basilica, Mattancherry Palace, Jewish Synagogue, Marine Drive, Marine Walkway, boating, and the Tripunithura Hill Palace. You may also indulge in some shopping before your drop-off at Cochin Airport/Railway Station/Bus Stand. Our representative will assist you with all necessary arrangements as you conclude your Kerala journey with cherished memories.'
+    },
+    notes: {
+      'Important Timings': 'Tripunithura Hill Palace: 9 AM – 5 PM (Closed on Mondays)',
+      'Palace Timings': 'Dutch Palace: Closed on Fridays',
+      'Synagogue Timings': 'Jewish Synagogue: 10 AM – 1 PM & 3 PM – 5 PM (Closed on Fridays & Saturdays)'
+    },
+    images: ['https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8a2VyYWxhfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600']
+  },
+  118: {
+    name: '4-Star 7-Day Kerala Bliss: Cochin – Munnar – Thekkady – Alleppey – Cochin',
+    priceHTML: '&#8377;32,999',
+    destination: 'Cochin, Munnar, Thekkady, Alleppey - Kerala',
+    itinerary: {
+      'Day 1': 'Cochin to Munnar – A Drive Through Nature\'s Canvas: Your Kerala experience begins as our representative welcomes you at Cochin Airport/Railway Station/Bus Stand. From here, embark on a picturesque drive to the misty hills of Munnar, a journey adorned with endless greenery and the scent of fresh tea leaves. En route, witness the cascading beauty of Cheeyappara and Valara Waterfalls, and take in the scenic charm of tea plantations and spice gardens. Upon arrival in Munnar, check in to your hotel and relax for the evening. Let the calm mountain air and lush surroundings refresh your senses as you settle in for your hill-station retreat.',
+      'Day 2': 'Exploring the Wonders of Munnar: After a hearty breakfast, begin your day around 9:00 AM with a visit to Eravikulam National Park, home to the endangered Nilgiri Tahr and known for its sweeping vistas of tea-clad hills. (Note: The park remains closed from February to April due to the breeding season of the Nilgiri Tahr. Tickets can be booked online or purchased at the counter.) Continue to the Tea Museum, where Munnar\'s rich tea-making legacy unfolds. (Closed on Mondays) Post lunch, visit Mattupetty Dam, Echo Point, and Kundala Lake, each offering stunning landscapes and tranquil moments. Conclude your sightseeing with visits to Pothamedu View Point and the Botanical Garden, before returning to your hotel for a peaceful evening.',
+      'Day 3': 'Munnar to Thekkady – From Tea Gardens to Wild Forests: After breakfast, set out for Thekkady, a scenic 3–4 hour drive through winding roads and lush plantations. On arrival, enjoy an unforgettable boating experience at Periyar Lake, where you can spot elephants, deer, and exotic birds as you glide through the serene waters of the Periyar Wildlife Sanctuary. (Tickets can be booked in advance or purchased directly.) In the evening, explore a range of optional activities — witness a mesmerizing Kathakali performance, enjoy an elephant ride or elephant bath, experience the musical fountain, or indulge in a rejuvenating Ayurvedic massage (on direct payment basis).',
+      'Day 4': 'Thekkady – Adventures and Serenity: Spend your second day in Thekkady at your own pace. You may choose to relax at your resort or take part in the many eco-tourism activities the region offers. Adventure seekers can opt for the Gavi full-day tour, trekking, bamboo rafting, nature walks, green walks, tiger trails, or jungle patrols — each offering a unique glimpse into Kerala\'s untamed wilderness. (All activities are optional and have separate entry fees.) Overnight stay at Thekkady. (For more insights, explore our detailed blog on Thekkady.)',
+      'Day 5': 'Thekkady to Alleppey – The Backwater Gateway: After breakfast, drive to Alleppey, often called the Venice of the East. Upon arrival, check into your resort and spend the day unwinding amidst the tranquil backwaters. You can visit the Alleppey Beach, go shopping for local handicrafts, or simply relax and enjoy the resort\'s amenities. Overnight stay at the Alleppey resort.',
+      'Day 6': 'Alleppey Houseboat – A Day on the Backwaters: After breakfast, board your private Kerala houseboat by 12:00 Noon. Cruise gently through the palm-fringed canals and shimmering lakes, passing by village life, lush paddy fields, and coconut groves. The cruise continues until 5:30 PM, with a halt for a traditional Kerala lunch. As the sun sets, the boat anchors for the night, letting you soak in the peace of the backwaters. Enjoy a delightful onboard experience with a welcome drink, tea, snacks, mineral water, lunch, dinner, and breakfast. In the morning, enjoy a one-hour cruise before check-out at 9:00 AM. Houseboats are available in Deluxe, Premium, and Luxury categories — where Deluxe offers a comfortable basic experience, while Premium and Luxury promise added elegance and indulgence.',
+      'Day 7': 'Alleppey to Cochin – Bidding Farewell: After breakfast, visit Alleppey Beach one last time before departing for Cochin. If time permits, enjoy a complimentary sightseeing tour that includes Fort Kochi, Navy Museum, St. Francis Church, Chinese Fishing Nets, Santa Cruz Basilica, Mattancherry Palace, Jewish Synagogue, Marine Drive, Marine Walkway, boating, and the Tripunithura Hill Palace. You may also indulge in some shopping before your drop-off at Cochin Airport/Railway Station/Bus Stand. Our representative will assist you with all necessary arrangements as you conclude your Kerala journey with cherished memories.'
+    },
+    notes: {
+      'Important Timings': 'Tripunithura Hill Palace: 9 AM – 5 PM (Closed on Mondays)',
+      'Palace Timings': 'Dutch Palace: Closed on Fridays',
+      'Synagogue Timings': 'Jewish Synagogue: 10 AM – 1 PM & 3 PM – 5 PM (Closed on Fridays & Saturdays)'
+    },
+    images: ['https://images.unsplash.com/photo-1583513645242-25a32d451084?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8a2VyYWxhfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600']
+  },
+  119: {
+    name: '5-Star 7-Day Kerala Bliss: Cochin – Munnar – Thekkady – Alleppey – Cochin',
+    priceHTML: '&#8377;42,999',
+    destination: 'Cochin, Munnar, Thekkady, Alleppey - Kerala',
+    itinerary: {
+      'Day 1': 'Cochin to Munnar – A Drive Through Nature\'s Canvas: Your Kerala experience begins as our representative welcomes you at Cochin Airport/Railway Station/Bus Stand. From here, embark on a picturesque drive to the misty hills of Munnar, a journey adorned with endless greenery and the scent of fresh tea leaves. En route, witness the cascading beauty of Cheeyappara and Valara Waterfalls, and take in the scenic charm of tea plantations and spice gardens. Upon arrival in Munnar, check in to your hotel and relax for the evening. Let the calm mountain air and lush surroundings refresh your senses as you settle in for your hill-station retreat.',
+      'Day 2': 'Exploring the Wonders of Munnar: After a hearty breakfast, begin your day around 9:00 AM with a visit to Eravikulam National Park, home to the endangered Nilgiri Tahr and known for its sweeping vistas of tea-clad hills. (Note: The park remains closed from February to April due to the breeding season of the Nilgiri Tahr. Tickets can be booked online or purchased at the counter.) Continue to the Tea Museum, where Munnar\'s rich tea-making legacy unfolds. (Closed on Mondays) Post lunch, visit Mattupetty Dam, Echo Point, and Kundala Lake, each offering stunning landscapes and tranquil moments. Conclude your sightseeing with visits to Pothamedu View Point and the Botanical Garden, before returning to your hotel for a peaceful evening.',
+      'Day 3': 'Munnar to Thekkady – From Tea Gardens to Wild Forests: After breakfast, set out for Thekkady, a scenic 3–4 hour drive through winding roads and lush plantations. On arrival, enjoy an unforgettable boating experience at Periyar Lake, where you can spot elephants, deer, and exotic birds as you glide through the serene waters of the Periyar Wildlife Sanctuary. (Tickets can be booked in advance or purchased directly.) In the evening, explore a range of optional activities — witness a mesmerizing Kathakali performance, enjoy an elephant ride or elephant bath, experience the musical fountain, or indulge in a rejuvenating Ayurvedic massage (on direct payment basis).',
+      'Day 4': 'Thekkady – Adventures and Serenity: Spend your second day in Thekkady at your own pace. You may choose to relax at your resort or take part in the many eco-tourism activities the region offers. Adventure seekers can opt for the Gavi full-day tour, trekking, bamboo rafting, nature walks, green walks, tiger trails, or jungle patrols — each offering a unique glimpse into Kerala\'s untamed wilderness. (All activities are optional and have separate entry fees.) Overnight stay at Thekkady. (For more insights, explore our detailed blog on Thekkady.)',
+      'Day 5': 'Thekkady to Alleppey – The Backwater Gateway: After breakfast, drive to Alleppey, often called the Venice of the East. Upon arrival, check into your resort and spend the day unwinding amidst the tranquil backwaters. You can visit the Alleppey Beach, go shopping for local handicrafts, or simply relax and enjoy the resort\'s amenities. Overnight stay at the Alleppey resort.',
+      'Day 6': 'Alleppey Houseboat – A Day on the Backwaters: After breakfast, board your private Kerala houseboat by 12:00 Noon. Cruise gently through the palm-fringed canals and shimmering lakes, passing by village life, lush paddy fields, and coconut groves. The cruise continues until 5:30 PM, with a halt for a traditional Kerala lunch. As the sun sets, the boat anchors for the night, letting you soak in the peace of the backwaters. Enjoy a delightful onboard experience with a welcome drink, tea, snacks, mineral water, lunch, dinner, and breakfast. In the morning, enjoy a one-hour cruise before check-out at 9:00 AM. Houseboats are available in Deluxe, Premium, and Luxury categories — where Deluxe offers a comfortable basic experience, while Premium and Luxury promise added elegance and indulgence.',
+      'Day 7': 'Alleppey to Cochin – Bidding Farewell: After breakfast, visit Alleppey Beach one last time before departing for Cochin. If time permits, enjoy a complimentary sightseeing tour that includes Fort Kochi, Navy Museum, St. Francis Church, Chinese Fishing Nets, Santa Cruz Basilica, Mattancherry Palace, Jewish Synagogue, Marine Drive, Marine Walkway, boating, and the Tripunithura Hill Palace. You may also indulge in some shopping before your drop-off at Cochin Airport/Railway Station/Bus Stand. Our representative will assist you with all necessary arrangements as you conclude your Kerala journey with cherished memories.'
+    },
+    notes: {
+      'Important Timings': 'Tripunithura Hill Palace: 9 AM – 5 PM (Closed on Mondays)',
+      'Palace Timings': 'Dutch Palace: Closed on Fridays',
+      'Synagogue Timings': 'Jewish Synagogue: 10 AM – 1 PM & 3 PM – 5 PM (Closed on Fridays & Saturdays)'
+    },
+    images: ['https://plus.unsplash.com/premium_photo-1697730310113-e44fced8e86c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8a2VyYWxhfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600']
+  },
+  120: {
+    name: '3-Star 8 Days / 7 Nights Kanyakumari – Rameshwaram – Kerala Tour',
+    priceHTML: '&#8377;38,999',
+    destination: 'Kochi, Kerala',
+    itinerary: {
+      'Day 1': 'Arrival in Trivandrum / Kovalam – The Coastal Charm: Upon arrival at Trivandrum Airport or Railway Station, our representative will greet you and escort you to Kovalam. Spend the day at leisure, relaxing by the golden sands of Kovalam Beach, or embark on a Trivandrum city tour. Trivandrum sightseeing includes the grand Sree Padmanabha Swamy Temple, Kuthiramalika Palace Museum, Napier Museum, Sree Chithra Art Gallery, Zoological Park, Kanakakunnu Palace, Azhimala Temple, and the Planetarium. Overnight stay at Kovalam.',
+      'Day 2': 'Trivandrum / Kovalam – Sun, Sea & Serenity: After breakfast, you may continue exploring Trivandrum city or simply relax at Kovalam Beach, soaking in the rhythmic sound of waves and the charm of coastal life. If you choose sightseeing, visit the same prominent attractions — the Padmanabha Swamy Temple, Museums, Palaces, and Art Galleries — or enjoy local shopping and sunset views by the sea. Overnight stay at Kovalam.',
+      'Day 3': 'Kovalam to Kanyakumari – Where the Oceans Meet: After breakfast, drive to Kanyakumari, the southernmost tip of the Indian mainland where the Arabian Sea, Bay of Bengal, and Indian Ocean converge. Upon arrival, explore Kanyakumari Beach, visit the Vivekananda Rock Memorial (open from 8 AM to 4 PM), and witness the breathtaking sunset over the ocean — an unforgettable sight. Overnight stay at Kanyakumari.',
+      'Day 4': 'Kanyakumari to Rameshwaram – A Spiritual Journey: After breakfast, proceed to Rameshwaram, one of India\'s holiest destinations, steeped in mythology and devotion. Upon arrival, visit the Hanuman Temple, Pamban Bridge, Navapanigraha Temples, Dhanushkodi, Kashi Vishwanath Temple, the sacred 24 Kundalas, and the divine sites of Ram Parvath, Sita Parvath, Hanuman Parvath, and Vishnu Temple. Overnight stay at Rameshwaram.',
+      'Day 5': 'Rameshwaram to Thekkady – Into the Wild: After breakfast, drive towards Thekkady, Kerala\'s wildlife haven nestled amidst spice-scented hills. Spend your day at leisure or engage in eco-tourism activities such as a full-day Gavi tour, bamboo rafting, trekking, nature walks, green walking, tiger trails, or jungle patrols. (All activities are optional with separate entrance fees.) Overnight stay at Thekkady.',
+      'Day 6': 'Thekkady to Munnar – The Journey to the Hills: After breakfast, drive to the enchanting hill station of Munnar, a land blanketed by emerald tea gardens and misty mountains. En route, enjoy panoramic views and cool mountain air as you ascend to this picturesque destination. On arrival, check into your hotel and relax for the evening amidst the tranquil charm of Munnar. Overnight stay at Munnar.',
+      'Day 7': 'Exploring Munnar – The Hill Station Delight: After breakfast, set out around 9:00 AM to visit Eravikulam National Park, home to the endangered Nilgiri Tahr and breathtaking vistas of rolling tea estates. (Closed from February to April during the breeding season. Tickets can be booked in advance or purchased at the counter.) Next, explore the Tea Museum, offering a peek into Munnar\'s aromatic heritage. (Closed on Mondays) After lunch, continue your exploration with Mattupetty Dam, Echo Point, Kundala Lake, Pothamedu View Point, and the Botanical Garden. Return to your hotel by evening for an overnight stay in Munnar.',
+      'Day 8': 'Munnar to Cochin – Farewell to God\'s Own Country: After breakfast, drive to Cochin for your onward journey. If time permits, enjoy a complimentary Cochin sightseeing tour covering Fort Kochi, Navy Museum, St. Francis Church, Chinese Fishing Nets, Santa Cruz Basilica, Mattancherry Palace, Jewish Synagogue, Marine Drive, Marine Walkway, boating, and the Tripunithura Hill Palace. You may also indulge in shopping at Cochin before your drop-off at the Airport/Railway Station/Bus Stand.'
+    },
+    images: ['https://images.pexels.com/photos/17870089/pexels-photo-17870089.jpeg','https://images.pexels.com/photos/18151791/pexels-photo-18151791.jpeg','https://images.pexels.com/photos/29988900/pexels-photo-29988900.jpeg','https://images.pexels.com/photos/33013632/pexels-photo-33013632.jpeg']
+  },
+  133: {
+    name: '4-Star 8 Days / 7 Nights Kanyakumari – Rameshwaram – Kerala Tour',
+    priceHTML: '&#8377;41,999',
+    destination: 'Kochi, Kerala',
+    itinerary: {
+      'Day 1': 'Arrival in Trivandrum / Kovalam – The Coastal Charm: Upon arrival at Trivandrum Airport or Railway Station, our representative will greet you and escort you to Kovalam. Spend the day at leisure, relaxing by the golden sands of Kovalam Beach, or embark on a Trivandrum city tour. Trivandrum sightseeing includes the grand Sree Padmanabha Swamy Temple, Kuthiramalika Palace Museum, Napier Museum, Sree Chithra Art Gallery, Zoological Park, Kanakakunnu Palace, Azhimala Temple, and the Planetarium. Overnight stay at Kovalam.',
+      'Day 2': 'Trivandrum / Kovalam – Sun, Sea & Serenity: After breakfast, you may continue exploring Trivandrum city or simply relax at Kovalam Beach, soaking in the rhythmic sound of waves and the charm of coastal life. If you choose sightseeing, visit the same prominent attractions — the Padmanabha Swamy Temple, Museums, Palaces, and Art Galleries — or enjoy local shopping and sunset views by the sea. Overnight stay at Kovalam.',
+      'Day 3': 'Kovalam to Kanyakumari – Where the Oceans Meet: After breakfast, drive to Kanyakumari, the southernmost tip of the Indian mainland where the Arabian Sea, Bay of Bengal, and Indian Ocean converge. Upon arrival, explore Kanyakumari Beach, visit the Vivekananda Rock Memorial (open from 8 AM to 4 PM), and witness the breathtaking sunset over the ocean — an unforgettable sight. Overnight stay at Kanyakumari.',
+      'Day 4': 'Kanyakumari to Rameshwaram – A Spiritual Journey: After breakfast, proceed to Rameshwaram, one of India\'s holiest destinations, steeped in mythology and devotion. Upon arrival, visit the Hanuman Temple, Pamban Bridge, Navapanigraha Temples, Dhanushkodi, Kashi Vishwanath Temple, the sacred 24 Kundalas, and the divine sites of Ram Parvath, Sita Parvath, Hanuman Parvath, and Vishnu Temple. Overnight stay at Rameshwaram.',
+      'Day 5': 'Rameshwaram to Thekkady – Into the Wild: After breakfast, drive towards Thekkady, Kerala\'s wildlife haven nestled amidst spice-scented hills. Spend your day at leisure or engage in eco-tourism activities such as a full-day Gavi tour, bamboo rafting, trekking, nature walks, green walking, tiger trails, or jungle patrols. (All activities are optional with separate entrance fees.) Overnight stay at Thekkady.',
+      'Day 6': 'Thekkady to Munnar – The Journey to the Hills: After breakfast, drive to the enchanting hill station of Munnar, a land blanketed by emerald tea gardens and misty mountains. En route, enjoy panoramic views and cool mountain air as you ascend to this picturesque destination. On arrival, check into your hotel and relax for the evening amidst the tranquil charm of Munnar. Overnight stay at Munnar.',
+      'Day 7': 'Exploring Munnar – The Hill Station Delight: After breakfast, set out around 9:00 AM to visit Eravikulam National Park, home to the endangered Nilgiri Tahr and breathtaking vistas of rolling tea estates. (Closed from February to April during the breeding season. Tickets can be booked in advance or purchased at the counter.) Next, explore the Tea Museum, offering a peek into Munnar\'s aromatic heritage. (Closed on Mondays) After lunch, continue your exploration with Mattupetty Dam, Echo Point, Kundala Lake, Pothamedu View Point, and the Botanical Garden. Return to your hotel by evening for an overnight stay in Munnar.',
+      'Day 8': 'Munnar to Cochin – Farewell to God\'s Own Country: After breakfast, drive to Cochin for your onward journey. If time permits, enjoy a complimentary Cochin sightseeing tour covering Fort Kochi, Navy Museum, St. Francis Church, Chinese Fishing Nets, Santa Cruz Basilica, Mattancherry Palace, Jewish Synagogue, Marine Drive, Marine Walkway, boating, and the Tripunithura Hill Palace. You may also indulge in shopping at Cochin before your drop-off at the Airport/Railway Station/Bus Stand.'
+    },
+    images: ['https://images.pexels.com/photos/962464/pexels-photo-962464.jpeg','https://images.pexels.com/photos/440731/pexels-photo-440731.jpeg','https://images.pexels.com/photos/1107717/pexels-photo-1107717.jpeg','https://images.pexels.com/photos/731423/pexels-photo-731423.jpeg']
+  },
+  134: {
+    name: '5-Star 8 Days / 7 Nights Kanyakumari – Rameshwaram – Kerala Tour',
+    priceHTML: '&#8377;47,999',
+    destination: 'Kochi, Kerala',
+    itinerary: {
+      'Day 1': 'Arrival in Trivandrum / Kovalam – The Coastal Charm: Upon arrival at Trivandrum Airport or Railway Station, our representative will greet you and escort you to Kovalam. Spend the day at leisure, relaxing by the golden sands of Kovalam Beach, or embark on a Trivandrum city tour. Trivandrum sightseeing includes the grand Sree Padmanabha Swamy Temple, Kuthiramalika Palace Museum, Napier Museum, Sree Chithra Art Gallery, Zoological Park, Kanakakunnu Palace, Azhimala Temple, and the Planetarium. Overnight stay at Kovalam.',
+      'Day 2': 'Trivandrum / Kovalam – Sun, Sea & Serenity: After breakfast, you may continue exploring Trivandrum city or simply relax at Kovalam Beach, soaking in the rhythmic sound of waves and the charm of coastal life. If you choose sightseeing, visit the same prominent attractions — the Padmanabha Swamy Temple, Museums, Palaces, and Art Galleries — or enjoy local shopping and sunset views by the sea. Overnight stay at Kovalam.',
+      'Day 3': 'Kovalam to Kanyakumari – Where the Oceans Meet: After breakfast, drive to Kanyakumari, the southernmost tip of the Indian mainland where the Arabian Sea, Bay of Bengal, and Indian Ocean converge. Upon arrival, explore Kanyakumari Beach, visit the Vivekananda Rock Memorial (open from 8 AM to 4 PM), and witness the breathtaking sunset over the ocean — an unforgettable sight. Overnight stay at Kanyakumari.',
+      'Day 4': 'Kanyakumari to Rameshwaram – A Spiritual Journey: After breakfast, proceed to Rameshwaram, one of India\'s holiest destinations, steeped in mythology and devotion. Upon arrival, visit the Hanuman Temple, Pamban Bridge, Navapanigraha Temples, Dhanushkodi, Kashi Vishwanath Temple, the sacred 24 Kundalas, and the divine sites of Ram Parvath, Sita Parvath, Hanuman Parvath, and Vishnu Temple. Overnight stay at Rameshwaram.',
+      'Day 5': 'Rameshwaram to Thekkady – Into the Wild: After breakfast, drive towards Thekkady, Kerala\'s wildlife haven nestled amidst spice-scented hills. Spend your day at leisure or engage in eco-tourism activities such as a full-day Gavi tour, bamboo rafting, trekking, nature walks, green walking, tiger trails, or jungle patrols. (All activities are optional with separate entrance fees.) Overnight stay at Thekkady.',
+      'Day 6': 'Thekkady to Munnar – The Journey to the Hills: After breakfast, drive to the enchanting hill station of Munnar, a land blanketed by emerald tea gardens and misty mountains. En route, enjoy panoramic views and cool mountain air as you ascend to this picturesque destination. On arrival, check into your hotel and relax for the evening amidst the tranquil charm of Munnar. Overnight stay at Munnar.',
+      'Day 7': 'Exploring Munnar – The Hill Station Delight: After breakfast, set out around 9:00 AM to visit Eravikulam National Park, home to the endangered Nilgiri Tahr and breathtaking vistas of rolling tea estates. (Closed from February to April during the breeding season. Tickets can be booked in advance or purchased at the counter.) Next, explore the Tea Museum, offering a peek into Munnar\'s aromatic heritage. (Closed on Mondays) After lunch, continue your exploration with Mattupetty Dam, Echo Point, Kundala Lake, Pothamedu View Point, and the Botanical Garden. Return to your hotel by evening for an overnight stay in Munnar.',
+      'Day 8': 'Munnar to Cochin – Farewell to God\'s Own Country: After breakfast, drive to Cochin for your onward journey. If time permits, enjoy a complimentary Cochin sightseeing tour covering Fort Kochi, Navy Museum, St. Francis Church, Chinese Fishing Nets, Santa Cruz Basilica, Mattancherry Palace, Jewish Synagogue, Marine Drive, Marine Walkway, boating, and the Tripunithura Hill Palace. You may also indulge in shopping at Cochin before your drop-off at the Airport/Railway Station/Bus Stand.'
+    },
+    images: ['https://images.pexels.com/photos/1065753/pexels-photo-1065753.jpeg','https://images.pexels.com/photos/12313299/pexels-photo-12313299.jpeg','https://images.pexels.com/photos/16443109/pexels-photo-16443109.jpeg','https://images.pexels.com/photos/34645211/pexels-photo-34645211.jpeg']
+  },
+  // Kerala Bliss Tour Packages (135-137)
+  135: {
+    name: '3-Star 7-Day Kerala Bliss: Cochin – Munnar – Thekkady – Alleppey – Cochin',
+    priceHTML: '&#8377;31,999',
+    destination: 'Kochi, Kerala',
+    itinerary: {
+      'Day 1': 'Cochin to Munnar – Into the Misty Hills: Your Kerala adventure begins as our representative warmly welcomes you at Cochin Airport/Railway Station/Bus Stand. From here, set out on a scenic drive to the emerald highlands of Munnar. Along the way, pause to soak in the beauty of Cheeyappara and Valara Waterfalls, and wander through the lush tea plantations and spice gardens that adorn the hillsides. Upon arrival in Munnar, check in to your hotel and unwind for the evening. Let the cool mountain air and serene landscapes set the mood for your hill-station escape.',
+      'Day 2': 'Discovering the Charms of Munnar: After breakfast, begin your day around 9:00 AM with a visit to Eravikulam National Park, home to the endangered Nilgiri Tahr and sweeping views of tea-covered slopes. (Note: The park remains closed from February to April during the Tahr\'s breeding season. Tickets can be booked in advance or at the counter.) Next, explore the Tea Museum, where Munnar\'s aromatic tea story comes alive. (Closed on Mondays) Post lunch, continue your journey to Mattupetty Dam, Echo Point, and Kundala Lake — each offering stunning scenery and tranquil moments. Capture breathtaking views from Pothamedu View Point, and visit the Botanical Garden before returning to your hotel for a relaxed evening.',
+      'Day 3': 'Munnar to Thekkady – From Hills to the Wild: After breakfast, begin your drive to Thekkady — a picturesque journey of about 3 to 4 hours through scenic spice-scented valleys. Upon arrival, you can enjoy an unforgettable boating experience on Periyar Lake, offering a chance to spot elephants, deer, and other wildlife in the Periyar Wildlife Sanctuary. (Tickets can be booked in advance or purchased directly.) As dusk sets in, you may indulge in optional cultural and leisure activities such as Kathakali performances, elephant rides, elephant baths, a musical fountain show, or soothing Ayurvedic massages — all on a direct payment basis.',
+      'Day 4': 'Thekkady to Alleppey – Houseboat Haven: After an early breakfast, depart for Alleppey, the Venice of the East. The drive takes about 4 hours, so we recommend starting by 8:00 AM to board your houseboat between 12:00 and 1:00 PM. Step aboard your traditional Kerala houseboat, where you\'ll be greeted with a welcome drink. Enjoy a leisurely cruise through the shimmering backwaters, watching daily village life unfold along the canals. A delicious Kerala-style lunch, tea, snacks, dinner, and breakfast will be served onboard. The cruise halts around 5:30 PM for the night, and resumes for a one-hour sail in the morning before check-out at 9:00 AM.',
+      'Day 5': 'Alleppey to Cochin – Cultural Exploration: After breakfast, disembark and visit the beautiful Alleppey Beach before heading back to Cochin. If time permits, enjoy a complimentary sightseeing tour covering Cochin\'s must-see attractions: Fort Kochi, St. Francis Church, Chinese Fishing Nets, Santa Cruz Basilica, Mattancherry Palace, Jewish Synagogue, Marine Drive, and the Tripunithura Hill Palace. Shop for souvenirs, explore local markets, or simply relax by the waterfront. Overnight stay in Cochin.',
+      'Day 6': 'Cochin Sightseeing – Heritage & Culture: After breakfast, continue exploring Cochin\'s rich heritage. Visit any remaining attractions or revisit your favorites. Explore the vibrant spice markets, art galleries, and colonial architecture. You may also enjoy a sunset cruise or simply relax at Marine Drive. Note: Tripunithura Hill Palace: 9 AM – 5 PM (Closed on Mondays). Dutch Palace: Closed on Fridays. Jewish Synagogue: 10 AM – 1 PM & 3 PM – 5 PM (Closed on Fridays & Saturdays). Overnight stay in Cochin.',
+      'Day 7': 'Departure – Memories of Kerala: After breakfast, our representative will assist you with all departure formalities as you carry home the unforgettable memories of your Kerala Bliss holiday. Transfer to Cochin Airport/Railway Station/Bus Stand for your onward journey.'
+    },
+    images: ['https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80','https://images.pexels.com/photos/962464/pexels-photo-962464.jpeg','https://images.pexels.com/photos/440731/pexels-photo-440731.jpeg','https://images.pexels.com/photos/1107717/pexels-photo-1107717.jpeg']
+  },
+  136: {
+    name: '4-Star 7-Day Kerala Bliss: Cochin – Munnar – Thekkady – Alleppey – Cochin',
+    priceHTML: '&#8377;37,999',
+    destination: 'Kochi, Kerala',
+    itinerary: {
+      'Day 1': 'Cochin to Munnar – Into the Misty Hills: Your Kerala adventure begins as our representative warmly welcomes you at Cochin Airport/Railway Station/Bus Stand. From here, set out on a scenic drive to the emerald highlands of Munnar. Along the way, pause to soak in the beauty of Cheeyappara and Valara Waterfalls, and wander through the lush tea plantations and spice gardens that adorn the hillsides. Upon arrival in Munnar, check in to your hotel and unwind for the evening. Let the cool mountain air and serene landscapes set the mood for your hill-station escape.',
+      'Day 2': 'Discovering the Charms of Munnar: After breakfast, begin your day around 9:00 AM with a visit to Eravikulam National Park, home to the endangered Nilgiri Tahr and sweeping views of tea-covered slopes. (Note: The park remains closed from February to April during the Tahr\'s breeding season. Tickets can be booked in advance or at the counter.) Next, explore the Tea Museum, where Munnar\'s aromatic tea story comes alive. (Closed on Mondays) Post lunch, continue your journey to Mattupetty Dam, Echo Point, and Kundala Lake — each offering stunning scenery and tranquil moments. Capture breathtaking views from Pothamedu View Point, and visit the Botanical Garden before returning to your hotel for a relaxed evening.',
+      'Day 3': 'Munnar to Thekkady – From Hills to the Wild: After breakfast, begin your drive to Thekkady — a picturesque journey of about 3 to 4 hours through scenic spice-scented valleys. Upon arrival, you can enjoy an unforgettable boating experience on Periyar Lake, offering a chance to spot elephants, deer, and other wildlife in the Periyar Wildlife Sanctuary. (Tickets can be booked in advance or purchased directly.) As dusk sets in, you may indulge in optional cultural and leisure activities such as Kathakali performances, elephant rides, elephant baths, a musical fountain show, or soothing Ayurvedic massages — all on a direct payment basis.',
+      'Day 4': 'Thekkady to Alleppey – Houseboat Haven: After an early breakfast, depart for Alleppey, the Venice of the East. The drive takes about 4 hours, so we recommend starting by 8:00 AM to board your houseboat between 12:00 and 1:00 PM. Step aboard your traditional Kerala houseboat, where you\'ll be greeted with a welcome drink. Enjoy a leisurely cruise through the shimmering backwaters, watching daily village life unfold along the canals. A delicious Kerala-style lunch, tea, snacks, dinner, and breakfast will be served onboard. The cruise halts around 5:30 PM for the night, and resumes for a one-hour sail in the morning before check-out at 9:00 AM.',
+      'Day 5': 'Alleppey to Cochin – Cultural Exploration: After breakfast, disembark and visit the beautiful Alleppey Beach before heading back to Cochin. If time permits, enjoy a complimentary sightseeing tour covering Cochin\'s must-see attractions: Fort Kochi, St. Francis Church, Chinese Fishing Nets, Santa Cruz Basilica, Mattancherry Palace, Jewish Synagogue, Marine Drive, and the Tripunithura Hill Palace. Shop for souvenirs, explore local markets, or simply relax by the waterfront. Overnight stay in Cochin.',
+      'Day 6': 'Cochin Sightseeing – Heritage & Culture: After breakfast, continue exploring Cochin\'s rich heritage. Visit any remaining attractions or revisit your favorites. Explore the vibrant spice markets, art galleries, and colonial architecture. You may also enjoy a sunset cruise or simply relax at Marine Drive. Note: Tripunithura Hill Palace: 9 AM – 5 PM (Closed on Mondays). Dutch Palace: Closed on Fridays. Jewish Synagogue: 10 AM – 1 PM & 3 PM – 5 PM (Closed on Fridays & Saturdays). Overnight stay in Cochin.',
+      'Day 7': 'Departure – Memories of Kerala: After breakfast, our representative will assist you with all departure formalities as you carry home the unforgettable memories of your Kerala Bliss holiday. Transfer to Cochin Airport/Railway Station/Bus Stand for your onward journey.'
+    },
+    images: ['https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=800&q=80','https://images.pexels.com/photos/731423/pexels-photo-731423.jpeg','https://images.pexels.com/photos/12313299/pexels-photo-12313299.jpeg','https://images.pexels.com/photos/16443109/pexels-photo-16443109.jpeg']
+  },
+  137: {
+    name: '5-Star 7-Day Kerala Bliss: Cochin – Munnar – Thekkady – Alleppey – Cochin',
+    priceHTML: '&#8377;47,999',
+    destination: 'Kochi, Kerala',
+    itinerary: {
+      'Day 1': 'Cochin to Munnar – Into the Misty Hills: Your Kerala adventure begins as our representative warmly welcomes you at Cochin Airport/Railway Station/Bus Stand. From here, set out on a scenic drive to the emerald highlands of Munnar. Along the way, pause to soak in the beauty of Cheeyappara and Valara Waterfalls, and wander through the lush tea plantations and spice gardens that adorn the hillsides. Upon arrival in Munnar, check in to your hotel and unwind for the evening. Let the cool mountain air and serene landscapes set the mood for your hill-station escape.',
+      'Day 2': 'Discovering the Charms of Munnar: After breakfast, begin your day around 9:00 AM with a visit to Eravikulam National Park, home to the endangered Nilgiri Tahr and sweeping views of tea-covered slopes. (Note: The park remains closed from February to April during the Tahr\'s breeding season. Tickets can be booked in advance or at the counter.) Next, explore the Tea Museum, where Munnar\'s aromatic tea story comes alive. (Closed on Mondays) Post lunch, continue your journey to Mattupetty Dam, Echo Point, and Kundala Lake — each offering stunning scenery and tranquil moments. Capture breathtaking views from Pothamedu View Point, and visit the Botanical Garden before returning to your hotel for a relaxed evening.',
+      'Day 3': 'Munnar to Thekkady – From Hills to the Wild: After breakfast, begin your drive to Thekkady — a picturesque journey of about 3 to 4 hours through scenic spice-scented valleys. Upon arrival, you can enjoy an unforgettable boating experience on Periyar Lake, offering a chance to spot elephants, deer, and other wildlife in the Periyar Wildlife Sanctuary. (Tickets can be booked in advance or purchased directly.) As dusk sets in, you may indulge in optional cultural and leisure activities such as Kathakali performances, elephant rides, elephant baths, a musical fountain show, or soothing Ayurvedic massages — all on a direct payment basis.',
+      'Day 4': 'Thekkady to Alleppey – Houseboat Haven: After an early breakfast, depart for Alleppey, the Venice of the East. The drive takes about 4 hours, so we recommend starting by 8:00 AM to board your houseboat between 12:00 and 1:00 PM. Step aboard your traditional Kerala houseboat, where you\'ll be greeted with a welcome drink. Enjoy a leisurely cruise through the shimmering backwaters, watching daily village life unfold along the canals. A delicious Kerala-style lunch, tea, snacks, dinner, and breakfast will be served onboard. The cruise halts around 5:30 PM for the night, and resumes for a one-hour sail in the morning before check-out at 9:00 AM.',
+      'Day 5': 'Alleppey to Cochin – Cultural Exploration: After breakfast, disembark and visit the beautiful Alleppey Beach before heading back to Cochin. If time permits, enjoy a complimentary sightseeing tour covering Cochin\'s must-see attractions: Fort Kochi, St. Francis Church, Chinese Fishing Nets, Santa Cruz Basilica, Mattancherry Palace, Jewish Synagogue, Marine Drive, and the Tripunithura Hill Palace. Shop for souvenirs, explore local markets, or simply relax by the waterfront. Overnight stay in Cochin.',
+      'Day 6': 'Cochin Sightseeing – Heritage & Culture: After breakfast, continue exploring Cochin\'s rich heritage. Visit any remaining attractions or revisit your favorites. Explore the vibrant spice markets, art galleries, and colonial architecture. You may also enjoy a sunset cruise or simply relax at Marine Drive. Note: Tripunithura Hill Palace: 9 AM – 5 PM (Closed on Mondays). Dutch Palace: Closed on Fridays. Jewish Synagogue: 10 AM – 1 PM & 3 PM – 5 PM (Closed on Fridays & Saturdays). Overnight stay in Cochin.',
+      'Day 7': 'Departure – Memories of Kerala: After breakfast, our representative will assist you with all departure formalities as you carry home the unforgettable memories of your Kerala Bliss holiday. Transfer to Cochin Airport/Railway Station/Bus Stand for your onward journey.'
+    },
+    images: ['https://images.unsplash.com/photo-1491497895121-1334fc14d8c9?auto=format&fit=crop&w=800&q=80','https://images.pexels.com/photos/1065753/pexels-photo-1065753.jpeg','https://images.pexels.com/photos/34645211/pexels-photo-34645211.jpeg','https://images.pexels.com/photos/32992107/pexels-photo-32992107.jpeg']
+  },
   // Kashmir Package Details (121-130)
   121: {
     name: '3-Star Heavenly Kashmir – 7 Days / 6 Nights',

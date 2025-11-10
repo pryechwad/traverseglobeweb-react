@@ -136,7 +136,24 @@ export default function PackageDetails() {
   );
 
   const overviewList = getOverviewList(pkgId, detail?.name);
-  const itinerary = getItinerary(pkgId, destination);
+  const itinerary = detail?.itinerary ? 
+    Object.entries(detail.itinerary).map(([day, content]) => {
+      // Split content at the first colon to separate title from description
+      const colonIndex = content.indexOf(':');
+      if (colonIndex > 0) {
+        const title = content.substring(0, colonIndex).trim();
+        const description = content.substring(colonIndex + 1).trim();
+        return {
+          title: `${day}: ${title}`,
+          paragraphs: [description]
+        };
+      }
+      return {
+        title: day,
+        paragraphs: [content]
+      };
+    }) : 
+    getItinerary(pkgId, destination);
 
   if (!detail) {
     return (
@@ -1854,6 +1871,136 @@ function getItinerary(id, destination){
         ]
       }
     ];
+  }
+  
+  // Kerala specific itinerary
+  if (idNum >= 117 && idNum <= 120) {
+    if (idNum === 117 || idNum === 118 || idNum === 119) {
+      // 6N/7D Kerala Ayurveda packages
+      return [
+        {
+          title: 'Day 1: Arrival in Kochi - Gateway to Kerala',
+          paragraphs: [
+            'Welcome to God\'s Own Country! Arrive at Kochi Airport where our representative will greet you.',
+            'Transfer to your hotel and check-in. Later, explore Fort Kochi - visit the iconic Chinese Fishing Nets, St. Francis Church, and Dutch Palace.',
+            'Evening at leisure to soak in the coastal ambiance. Overnight in Kochi.'
+          ]
+        },
+        {
+          title: 'Day 2: Kochi to Munnar - Hill Station Retreat',
+          paragraphs: [
+            'After breakfast, drive to Munnar (4 hours). En route, stop at Cheeyappara and Valara waterfalls.',
+            'Upon arrival, check into your hotel. Evening visit to local tea gardens.',
+            'Enjoy the cool mountain air and misty landscapes. Overnight in Munnar.'
+          ]
+        },
+        {
+          title: 'Day 3: Munnar Sightseeing - Tea Gardens & Wildlife',
+          paragraphs: [
+            'Full day exploring Munnar. Visit Eravikulam National Park, Tea Museum, Mattupetty Dam, Echo Point, and Kundala Lake.',
+            'Visit Pothamedu Viewpoint for panoramic valley views.',
+            'Overnight in Munnar.'
+          ]
+        },
+        {
+          title: 'Day 4: Munnar to Alleppey - Backwater Paradise',
+          paragraphs: [
+            'Drive to Alleppey. Board your traditional houseboat and begin backwater cruise through serene canals and lagoons.',
+            'Watch village life unfold along the banks. Experience sunset over the backwaters.',
+            'Overnight on houseboat.'
+          ]
+        },
+        {
+          title: 'Day 5: Alleppey to Kovalam - Beach Bliss',
+          paragraphs: [
+            'Disembark and drive to Kovalam. Check into beach resort.',
+            'Relax at the famous Lighthouse Beach. Evening at leisure enjoying the coastal beauty.',
+            'Overnight in Kovalam.'
+          ]
+        },
+        {
+          title: 'Day 6: Kovalam Sightseeing',
+          paragraphs: [
+            'Visit Padmanabhaswamy Temple, Napier Museum, and local markets in Trivandrum.',
+            'Return to Kovalam for beach activities and Ayurvedic treatments.',
+            'Overnight in Kovalam.'
+          ]
+        },
+        {
+          title: 'Day 7: Departure',
+          paragraphs: [
+            'After breakfast, transfer to Trivandrum airport for your onward journey with beautiful memories of Kerala.'
+          ]
+        }
+      ];
+    }
+    if (idNum === 120) {
+      // 7N/8D Kerala Complete Tour
+      return [
+        {
+          title: 'Day 1: Arrival in Kochi - Gateway to Kerala',
+          paragraphs: [
+            'Welcome to God\'s Own Country! Arrive at Kochi Airport where our representative will greet you.',
+            'Transfer to your hotel and check-in. Later, explore Fort Kochi - visit the iconic Chinese Fishing Nets, St. Francis Church, and Dutch Palace.',
+            'Evening at leisure. Overnight in Kochi.'
+          ]
+        },
+        {
+          title: 'Day 2: Kochi to Munnar - Hill Station Retreat',
+          paragraphs: [
+            'After breakfast, drive to Munnar (4 hours). En route, stop at Cheeyappara and Valara waterfalls.',
+            'Upon arrival, check into your hotel. Evening visit to local tea gardens.',
+            'Overnight in Munnar.'
+          ]
+        },
+        {
+          title: 'Day 3: Munnar Sightseeing - Tea Gardens & Wildlife',
+          paragraphs: [
+            'Full day exploring Munnar. Visit Eravikulam National Park, Tea Museum, Mattupetty Dam, Echo Point, and Kundala Lake.',
+            'Visit Pothamedu Viewpoint for panoramic valley views.',
+            'Overnight in Munnar.'
+          ]
+        },
+        {
+          title: 'Day 4: Munnar to Thekkady - Spice Gardens',
+          paragraphs: [
+            'Drive to Thekkady (3 hours). Visit spice plantations and enjoy the aroma of cardamom, pepper, and cinnamon.',
+            'Evening boat ride in Periyar Lake with wildlife spotting.',
+            'Overnight in Thekkady.'
+          ]
+        },
+        {
+          title: 'Day 5: Thekkady to Alleppey - Backwater Paradise',
+          paragraphs: [
+            'Drive to Alleppey. Board your traditional houseboat and begin backwater cruise through serene canals and lagoons.',
+            'Watch village life unfold along the banks.',
+            'Overnight on houseboat.'
+          ]
+        },
+        {
+          title: 'Day 6: Alleppey to Kovalam - Beach Bliss',
+          paragraphs: [
+            'Disembark and drive to Kovalam. Check into beach resort.',
+            'Relax at the famous Lighthouse Beach. Evening at leisure enjoying the coastal beauty.',
+            'Overnight in Kovalam.'
+          ]
+        },
+        {
+          title: 'Day 7: Kovalam Sightseeing',
+          paragraphs: [
+            'Visit Padmanabhaswamy Temple, Napier Museum, and local markets in Trivandrum.',
+            'Return to Kovalam for beach activities and Ayurvedic treatments.',
+            'Overnight in Kovalam.'
+          ]
+        },
+        {
+          title: 'Day 8: Departure',
+          paragraphs: [
+            'After breakfast, transfer to Trivandrum airport for your onward journey with beautiful memories of Kerala.'
+          ]
+        }
+      ];
+    }
   }
   
   // Generic for other destinations (4-day template)
