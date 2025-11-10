@@ -1,0 +1,10 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Disallow common build and config artifacts
+Disallow: /node_modules/
+Disallow: /vite.svg
+
+# Sitemap (update this URL if your domain changes)
+Sitemap: https://traverse-globe.vercel.app/sitemap.xml
