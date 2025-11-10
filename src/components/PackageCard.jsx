@@ -49,7 +49,7 @@ export default function PackageCard({ pkg, onView, buttonLabel = 'View Package',
     if ((id >= 91 && id <= 100)) return 'andaman';
     if ((id >= 101 && id <= 110)) return 'jaipur';
     if ((id >= 111 && id <= 120)) return 'kerala';
-    if ((id >= 121 && id <= 130)) return 'kashmir';
+    if ((id >= 121 && id <= 132)) return 'kashmir';
     return 'uae';
   }, [category, pkg.id]);
 

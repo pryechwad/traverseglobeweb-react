@@ -614,6 +614,22 @@ function getOverviewList(id, name){
     ];
   }
   
+  // Kashmir specific overview
+  if (idNum >= 121 && idNum <= 132) {
+    return [
+      'Airport transfers with meet & greet service',
+      'Houseboat stay on pristine Dal Lake',
+      'Visit to Mughal Gardens - Shalimar, Nishat, Cheshma Shahi',
+      'Sonmarg excursion - The Golden Meadow',
+      'Gulmarg visit with Gondola cable car ride',
+      'Pahalgam sightseeing - Betab Valley, Chandanwari',
+      'Shikara ride on Dal Lake at sunset',
+      'Visit to Shankaracharya Temple',
+      'Professional English-speaking guide throughout',
+      'All transfers in private AC vehicle'
+    ];
+  }
+  
   // Dubai specific overview
   const base = [
     'Arrival in city with Hotel Transfer and Dhow Cruise Dinner',
@@ -1558,6 +1574,288 @@ function getItinerary(id, destination){
   if ([3,6,9].includes(idNum)) {
     return [commonDay1, day2, day3, miracleVillage, abuDhabi, {title:'Day 6: Departure', paragraphs:['Breakfast at hotel. Check-out & transfer to airport for your onward journey.']}];
   }
+  // Kashmir specific itinerary
+  if (idNum >= 121 && idNum <= 132) {
+    // First row Kashmir packages (121-123) - Heavenly Kashmir 7 Days
+    if (idNum >= 121 && idNum <= 123) {
+      return [
+        {
+          title: 'Day 1: Arrival at Srinagar – Welcome to Paradise on Earth',
+          paragraphs: [
+            'As you arrive at Srinagar Airport, the cool Himalayan breeze and fragrance of blooming gardens will welcome you to the heart of heaven.',
+            'Meet your representative and drive through the scenic city to your houseboat on the pristine Dal Lake.',
+            'Later, immerse yourself in the royal beauty of the Mughal Gardens—Cheshma Shahi (The Royal Spring), Shalimar Bagh (Abode of Love), and Nishat Bagh (Garden of Bliss). Each garden reflects the grandeur of Mughal art and the serenity of nature.',
+            'In the evening, visit the Shankaracharya Temple, perched on a hilltop, offering breathtaking panoramic views of Srinagar and the shimmering Dal Lake.',
+            'Overnight Stay: Houseboat on Dal Lake – an experience unlike any other, as you drift on the tranquil waters surrounded by snow-kissed peaks.'
+          ]
+        },
+        {
+          title: 'Day 2: Srinagar – Sonmarg – Srinagar (The Meadow of Gold)',
+          paragraphs: [
+            'After breakfast, embark on a soul-soothing drive to Sonmarg, the "Golden Meadow," nestled at an altitude of 2,800 meters. The journey—about 87 km—winds through enchanting valleys, pine forests, and alongside the sparkling Sindh River.',
+            'Spend your day exploring this dreamlike valley, embraced by majestic mountains and shimmering glaciers. For adventure lovers, enjoy an optional pony or cab ride to Thajiwas Glacier or Zero Point, where the snow remains all year round.',
+            'Return to Srinagar by evening for a relaxed night.',
+            'Overnight Stay: Hotel in Srinagar'
+          ]
+        },
+        {
+          title: 'Day 3: Srinagar – Gulmarg (The Meadow of Flowers)',
+          paragraphs: [
+            'After breakfast, drive to the world-famous Gulmarg, also known as the "Meadow of Flowers." The 56 km route via Tangmarg is adorned with pine forests, meadows, and snow-dusted landscapes.',
+            'Upon arrival, check in to your hotel and unwind. Later, explore Gulmarg\'s attractions — the highest golf course in the world, picturesque meadows, and its renowned ski resort.',
+            'Don\'t miss the thrilling Gondola cable car ride (optional, on direct payment), one of the highest in the world, taking you to Apharwat Peak for mesmerizing views of the snow-covered Himalayas.',
+            'Overnight Stay: Hotel in Gulmarg'
+          ]
+        },
+        {
+          title: 'Day 4: Gulmarg – Pahalgam (The Valley of Shepherds)',
+          paragraphs: [
+            'Enjoy a hearty breakfast before departing for Pahalgam, the "Valley of Shepherds," situated at an altitude of 2,400 meters. The 95 km drive is a feast for the eyes, filled with panoramic countryside views, saffron fields, and quaint villages.',
+            'En route, visit the ancient Avantipur Ruins, an 1100-year-old temple dedicated to Lord Vishnu — a silent witness to Kashmir\'s rich heritage.',
+            'On reaching Pahalgam, let the soothing sounds of the Lidder and Sheshnag Rivers and the stunning alpine peaks calm your soul. Spend your evening strolling along the riverside or enjoying the peaceful mountain air.',
+            'Overnight Stay: Hotel in Pahalgam'
+          ]
+        },
+        {
+          title: 'Day 5: Pahalgam Local Sightseeing – Valleys of Enchantment',
+          paragraphs: [
+            'After breakfast, explore the mesmerizing beauty of Pahalgam. Visit Baisaran Valley, often called "Mini Switzerland," with its rolling green meadows and panoramic views of the Himalayas.',
+            'Continue to the stunning Betab Valley, named after a Bollywood film, known for its crystal-clear streams and pine forests. Later, visit Chandanwari, the starting point of the Amarnath Yatra, surrounded by snow even in summer.',
+            'These attractions can be accessed via local cab or pony ride (direct payment basis).',
+            'Overnight Stay: Hotel in Pahalgam'
+          ]
+        },
+        {
+          title: 'Day 6: Pahalgam – Srinagar (City of Lakes and Shrines)',
+          paragraphs: [
+            'After breakfast, drive back to Srinagar. Upon arrival, set out to explore the spiritual and cultural essence of the city.',
+            'Visit the Hazratbal Shrine, located on the northern shores of Dal Lake, and the magnificent Jamia Masjid in the heart of the old city. Later, visit the Pari Mahal (Palace of Fairies) and revisit the serene Shankaracharya Temple if you wish to enjoy its divine tranquility once more.',
+            'In the evening, experiencing the magic of a 1-hour Shikara Ride on Dal Lake — gliding across its mirror-like waters as the sun dips behind the mountains is truly an unforgettable sight.',
+            'Overnight Stay: Hotel in Srinagar'
+          ]
+        },
+        {
+          title: 'Day 7: Srinagar – Departure',
+          paragraphs: [
+            'After breakfast, bid farewell to the land of eternal beauty and heartfelt hospitality.',
+            'Your driver will transfer you to Srinagar Airport for your onward journey, carrying with you memories of a paradise that will forever stay in your heart.',
+            'End of the Journey – But Memories Forever Stay'
+          ]
+        }
+      ];
+    }
+    // Second row Kashmir packages (124-126) - Kashmir 5 Days / 4 Nights
+    if (idNum >= 124 && idNum <= 126) {
+      return [
+        {
+          title: 'Day 1: Srinagar Arrival & Sightseeing – The Jewel of Paradise',
+          paragraphs: [
+            'Arrive at Srinagar Airport, where you\'ll be greeted by your representative and driven through the scenic city to your hotel. After check-in, unwind and soak in the calm charm of this heavenly destination.',
+            'In the afternoon, enjoy a 1-hour Shikara Ride on Dal Lake, gliding over the mirror-like waters surrounded by floating gardens and the snow-clad peaks of the Himalayas.',
+            'Later, explore the world-famous Mughal Gardens—Shalimar Bagh (Abode of Love), Nishat Bagh (Garden of Bliss), and Cheshma Shahi (Royal Spring). Each garden is a masterpiece of Mughal architecture and nature\'s artistry.',
+            'Visit the sacred Shankaracharya Temple, perched atop a hill, offering breathtaking views of the valley. End the day by visiting a local handicrafts showroom, where you can admire exquisite Kashmiri carpets, shawls, and intricate woodwork.',
+            'Overnight Stay: Hotel in Srinagar'
+          ]
+        },
+        {
+          title: 'Day 2: Excursion to Sonmarg – The Meadow of Gold',
+          paragraphs: [
+            'After breakfast, embark on a full-day excursion to Sonmarg, meaning "Meadow of Gold." The 87 km drive takes you along the serene Sindh Valley, adorned with wildflowers, crystal streams, and majestic snow peaks.',
+            'Spend time exploring this picturesque paradise, surrounded by towering mountains and endless meadows.',
+            'For adventure lovers, an optional pony ride to Thajiwas Glacier offers a closer view of Sonmarg\'s stunning landscape and eternal snow.',
+            'By evening, return to Srinagar, where you can relax and enjoy a peaceful night.',
+            'Overnight Stay: Hotel in Srinagar'
+          ]
+        },
+        {
+          title: 'Day 3: Srinagar to Gulmarg – The Meadow of Flowers',
+          paragraphs: [
+            'After breakfast, drive to Gulmarg (56 km, approx. 2 hours)—one of the most enchanting hill stations in Kashmir, famous for its rolling meadows and panoramic Himalayan views.',
+            'On arrival, explore the charming town: walk along the green slopes, visit the world\'s highest golf course, and take in breathtaking vistas of Nanga Parbat, the world\'s ninth-highest peak.',
+            'For a touch of adventure, you can opt for a trek to Khilanmarg or enjoy the world-renowned Gondola Ride (on direct payment basis) that carries you up to Kongdori or Apharwat Peak, offering mesmerizing views of snow-covered landscapes.',
+            'Overnight Stay: Hotel in Gulmarg'
+          ]
+        },
+        {
+          title: 'Day 4: Srinagar to Pahalgam – The Valley of Shepherds',
+          paragraphs: [
+            'After breakfast, embark on a scenic drive to Pahalgam, often called "The Valley of Shepherds." En route, pass through the saffron fields of Pampore, the historic ruins of Avantipura, and the apple orchards of Bijbehara—each stop a postcard of Kashmir\'s natural splendor.',
+            'Continue your journey through Anantnag, following the sparkling Lidder River, until you arrive in Pahalgam. Check in to your hotel and spend the day at leisure, exploring the serene beauty of this alpine valley or simply relaxing amidst nature.',
+            'Overnight Stay: Hotel in Pahalgam'
+          ]
+        },
+        {
+          title: 'Day 5: Departure – Farewell to Paradise',
+          paragraphs: [
+            'Enjoy your breakfast amidst the peaceful surroundings of Pahalgam.',
+            'Later, drive back to Srinagar Airport for your onward journey, carrying with you memories of breathtaking mountains, serene lakes, and the eternal beauty of Kashmir — truly a heaven on earth.',
+            'End of the Journey – Memories That Last a Lifetime'
+          ]
+        }
+      ];
+    }
+    // Third row Kashmir packages (127-129) - Hidden Valleys of Kashmir 6 Days / 5 Nights
+    if (idNum >= 127 && idNum <= 129) {
+      return [
+        {
+          title: 'Day 1: Srinagar to Gurez – Into the Hidden Heaven',
+          paragraphs: [
+            'Arrive at Srinagar Airport, where your representative will greet you warmly.',
+            'Begin your scenic drive towards Dawar (Gurez Valley)—a mesmerizing journey through lush pine forests, roaring rivers, and snow-covered mountain passes.',
+            'Nestled deep in the Himalayas, Gurez Valley is an untouched paradise offering breathtaking landscapes, wooden houses, and a glimpse of Kashmir\'s unspoiled beauty.',
+            'Arrive in Dawar, check in to your hotel, and relax amidst the tranquil charm of this secluded valley.',
+            'Overnight Stay: Hotel in Gurez'
+          ]
+        },
+        {
+          title: 'Day 2: Gurez to Srinagar – Valley of Serenity',
+          paragraphs: [
+            'Wake up to the soft sounds of the Kishanganga River and the sight of the majestic Habba Khatoon Peak. After breakfast, set out for a full-day exploration of Gurez — visit local villages, interact with warm-hearted locals, and experience the peaceful simplicity of valley life.',
+            'Later, drive back to Srinagar (130 km, approx. 7 hours), enjoying panoramic mountain views along the way.',
+            'In the evening, check in to your houseboat on Dal Lake, where a traditional Kashmiri dinner awaits. Let the calm waters and the soft glow of lanterns create a perfect end to your day.',
+            'Overnight Stay: Houseboat in Srinagar'
+          ]
+        },
+        {
+          title: 'Day 3: Srinagar to Keran Valley – Beauty Beyond Borders',
+          paragraphs: [
+            'After breakfast, start your drive towards the picturesque Keran Valley (145 km from Srinagar). Located near the Line of Control, Keran is a hidden gem that offers spectacular views of the Kishanganga River, flowing gracefully between India and Pakistan.',
+            'Explore the charming villages, wooden homes, and riverside meadows of this lesser-known valley. The tranquility and natural beauty here will leave you mesmerized.',
+            'After your sightseeing tour, drive back to Srinagar by evening.',
+            'Overnight Stay: Hotel in Srinagar'
+          ]
+        },
+        {
+          title: 'Day 4: Srinagar to Baangus Valley – The Valley of Tranquility',
+          paragraphs: [
+            'After breakfast, embark on a full-day excursion to Baangus Valley, one of Kashmir\'s most pristine and unexplored destinations.',
+            'The journey takes you through scenic forests and meadows until you reach a breathtaking valley surrounded by pine-covered mountains and alpine streams.',
+            'Spend the day amidst nature\'s splendor—ideal for nature walks, photography, and peaceful reflection.',
+            'By evening, drive back to Srinagar for a relaxed night.',
+            'Overnight Stay: Hotel in Srinagar'
+          ]
+        },
+        {
+          title: 'Day 5: Srinagar to Sinthan Top – Touch the Sky',
+          paragraphs: [
+            'After breakfast, head towards Daksum and Sinthan Top, a spectacular mountain pass that connects Kashmir with Kishtwar.',
+            'Sinthan Top, perched at over 12,000 feet, is famous for its 360-degree panoramic views, crystal-clear air, and year-round snow. Adventure enthusiasts can indulge in mountaineering, skiing, or simply revel in the breathtaking natural scenery.',
+            'Return to Srinagar by evening and unwind after a thrilling day.',
+            'Overnight Stay: Hotel in Srinagar'
+          ]
+        },
+        {
+          title: 'Day 6: Departure from Srinagar – Farewell to Heaven',
+          paragraphs: [
+            'After breakfast, enjoy your last morning in the Valley of Paradise.',
+            'Transfer to Srinagar Airport or Bus Stand for your onward journey, taking with you memories of Kashmir\'s hidden valleys, crystal lakes, and snow-capped dreams.',
+            'End of Journey – Memories of Heaven That Last Forever'
+          ]
+        }
+      ];
+    }
+    // Fourth row Kashmir packages (130-132) - Heavenly Kashmir: 7-Day Scenic Escape
+    if (idNum >= 130 && idNum <= 132) {
+      return [
+        {
+          title: 'Day 1 – Arrival in Srinagar & Dal Lake',
+          paragraphs: [
+            'Arrive in Srinagar and transfer to your charming houseboat on Dal Lake.',
+            'Glide through serene waters on a Shikara, capture memories in traditional Kashmiri attire, and enjoy a relaxing evening surrounded by the tranquil beauty of the lake.'
+          ]
+        },
+        {
+          title: 'Day 2 – Journey to Gulmarg',
+          paragraphs: [
+            'After breakfast, drive to the magical meadows of Gulmarg.',
+            'Ascend the mountains on the iconic Gondola cable car, marvel at snow-clad peaks, and soak in the panoramic views of this alpine paradise.'
+          ]
+        },
+        {
+          title: 'Day 3 – Enchanting Pahalgam',
+          paragraphs: [
+            'Travel to the lush valley of Pahalgam, visiting the ancient Avantipura Ruins en route.',
+            'Spend your day exploring the pristine landscapes, alpine rivers, and peaceful surroundings.'
+          ]
+        },
+        {
+          title: 'Day 4 – Explore Pahalgam',
+          paragraphs: [
+            'Discover the sacred Mamaleshwar Temple by the Lidder River and enjoy a day immersed in the natural splendor of the valley.',
+            'Surrounded by rolling hills and flowing streams, experience the peaceful beauty of this enchanting destination.'
+          ]
+        },
+        {
+          title: 'Day 5 – Return to Srinagar & Mughal Gardens',
+          paragraphs: [
+            'Drive back to Srinagar and explore the majestic Mughal Gardens—Nishat Bagh, Shalimar, and Cheshma Shahi—followed by the iconic Shankaracharya Temple.',
+            'End the day with a visit to the ethereal Pari Mahal and a panoramic city tour on a double-decker bus.'
+          ]
+        },
+        {
+          title: 'Day 6 – Sonmarg Excursion',
+          paragraphs: [
+            'Embark on a full-day journey to Sonmarg, the "Meadow of Gold."',
+            'Experience breathtaking glaciers, pristine rivers, and snow-covered peaks—an adventurer\'s paradise perfect for short treks or pony rides.'
+          ]
+        },
+        {
+          title: 'Day 7 – Departure',
+          paragraphs: [
+            'After breakfast, bid farewell to Kashmir as you transfer to Srinagar airport or bus stand.',
+            'Carry unforgettable memories of this heavenly land with you as your journey comes to an end.'
+          ]
+        }
+      ];
+    }
+    // Default Kashmir itinerary for other packages
+    return [
+      {
+        title: 'Day 1: Arrival in Srinagar',
+        paragraphs: [
+          'Arrive at Srinagar Airport and transfer to hotel/houseboat.',
+          'Visit Mughal Gardens - Shalimar Bagh, Nishat Bagh, and Cheshma Shahi.',
+          'Evening visit to Shankaracharya Temple for panoramic views.',
+          'Overnight stay in Srinagar.'
+        ]
+      },
+      {
+        title: 'Day 2: Srinagar - Gulmarg',
+        paragraphs: [
+          'Drive to Gulmarg, the "Meadow of Flowers".',
+          'Enjoy Gondola cable car ride to Apharwat Peak.',
+          'Explore the world\'s highest golf course.',
+          'Overnight stay in Gulmarg.'
+        ]
+      },
+      {
+        title: 'Day 3: Gulmarg - Pahalgam',
+        paragraphs: [
+          'Drive to Pahalgam, the "Valley of Shepherds".',
+          'Visit Betab Valley and Chandanwari.',
+          'Enjoy riverside walks along Lidder River.',
+          'Overnight stay in Pahalgam.'
+        ]
+      },
+      {
+        title: 'Day 4: Pahalgam - Srinagar',
+        paragraphs: [
+          'Return to Srinagar.',
+          'Shikara ride on Dal Lake.',
+          'Visit local markets and handicraft shops.',
+          'Overnight stay in Srinagar.'
+        ]
+      },
+      {
+        title: 'Final Day: Departure',
+        paragraphs: [
+          'Transfer to Srinagar Airport for departure.',
+          'End of Kashmir tour with beautiful memories.'
+        ]
+      }
+    ];
+  }
+  
   // Generic for other destinations (4-day template)
   return [
     { title: 'Day 1: Arrival', paragraphs:[`Welcome to ${city}! Airport transfer to hotel and check-in. Evening at leisure.`] },
@@ -1605,6 +1903,22 @@ function getInclusions(id){
       'Seetha Amman Temple visit',
       'Yala National Park jeep safari',
       'Colombo city tour with major landmarks',
+      'All transfers in private AC vehicle',
+      'Professional English-speaking guide',
+    ];
+  }
+  if (idNum>=121 && idNum<=132){
+    return [
+      '4-6 Nights accommodation as per package',
+      'Daily breakfast at hotel/houseboat',
+      'Airport transfers (arrival & departure)',
+      'Houseboat stay on Dal Lake (1 night)',
+      'Srinagar to Sonmarg day excursion',
+      'Gulmarg sightseeing with Gondola ride',
+      'Pahalgam visit - Betab Valley, Chandanwari',
+      'Shikara ride on Dal Lake',
+      'Visit to Mughal Gardens',
+      'Shankaracharya Temple visit',
       'All transfers in private AC vehicle',
       'Professional English-speaking guide',
     ];
@@ -1671,6 +1985,17 @@ function getHotels(id, destination){
       `Nuwara Eliya: ${starLevel} colonial-style hotel`,
       `Yala: ${starLevel} safari lodge near national park`,
       `Colombo: ${starLevel} city hotel with modern amenities`,
+    ];
+  }
+  if (idNum>=121 && idNum<=132){
+    const starLevel = idNum <= 123 ? (idNum === 121 ? '3-star' : idNum === 122 ? '4-star' : '5-star') :
+      idNum <= 126 ? (idNum === 124 ? '3-star' : idNum === 125 ? '4-star' : '5-star') :
+      (idNum <= 129 ? (idNum === 127 ? '3-star' : idNum === 128 ? '4-star' : '5-star') : '4-star');
+    return [
+      `Srinagar: ${starLevel} hotel with Dal Lake views`,
+      `Gulmarg: ${starLevel} resort with mountain views`,
+      `Pahalgam: ${starLevel} hotel near Lidder River`,
+      'Dal Lake: Traditional houseboat experience (1 night)',
     ];
   }
   if (idNum>=1 && idNum<=10){
