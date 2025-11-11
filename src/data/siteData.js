@@ -1100,7 +1100,7 @@ export const kashmirPackages = [
     nights: '6N/7D',
     strikePrice: 26999,
     price: 23999,
-    image: 'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.pexels.com/photos/2907578/pexels-photo-2907578.jpeg',
   },
   {
     id: 122,
@@ -1108,7 +1108,7 @@ export const kashmirPackages = [
     nights: '6N/7D',
     strikePrice: 32999,
     price: 29999,
-    image: 'https://images.unsplash.com/photo-1580674684081-7617fbf4d82d?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.pexels.com/photos/2439787/pexels-photo-2439787.jpeg',
   },
   {
     id: 123,
@@ -1116,7 +1116,7 @@ export const kashmirPackages = [
     nights: '6N/7D',
     strikePrice: 42999,
     price: 38999,
-    image: 'https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.pexels.com/photos/33585904/pexels-photo-33585904.jpeg',
   },
   {
     id: 124,
@@ -1124,7 +1124,7 @@ export const kashmirPackages = [
     nights: '4N/5D',
     strikePrice: 30999,
     price: 27999,
-    image: 'https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.pexels.com/photos/33044220/pexels-photo-33044220.jpeg',
   },
   {
     id: 125,
@@ -1132,7 +1132,7 @@ export const kashmirPackages = [
     nights: '4N/5D',
     strikePrice: 36999,
     price: 33999,
-    image: 'https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.pexels.com/photos/6313635/pexels-photo-6313635.jpeg',
   },
   {
     id: 126,
@@ -1140,7 +1140,7 @@ export const kashmirPackages = [
     nights: '4N/5D',
     strikePrice: 46999,
     price: 42999,
-    image: 'https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.pexels.com/photos/32935442/pexels-photo-32935442.jpeg',
   },
   {
     id: 127,
@@ -1148,7 +1148,7 @@ export const kashmirPackages = [
     nights: '5N/6D',
     strikePrice: 34999,
     price: 31999,
-    image: 'https://images.unsplash.com/photo-1559804506-669a67965ba0?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.pexels.com/photos/33590298/pexels-photo-33590298.jpeg',
   },
   {
     id: 128,
@@ -1156,7 +1156,7 @@ export const kashmirPackages = [
     nights: '5N/6D',
     strikePrice: 40999,
     price: 37999,
-    image: 'https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.pexels.com/photos/5637788/pexels-photo-5637788.jpeg',
   },
   {
     id: 129,
@@ -1164,7 +1164,7 @@ export const kashmirPackages = [
     nights: '5N/6D',
     strikePrice: 52999,
     price: 48999,
-    image: 'https://images.unsplash.com/photo-1508964942454-1a56651d54ac?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.pexels.com/photos/10679349/pexels-photo-10679349.jpeg',
   },
   {
     id: 130,
@@ -1172,7 +1172,7 @@ export const kashmirPackages = [
     nights: '6N/7D',
     strikePrice: 46999,
     price: 42999,
-    image: 'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.pexels.com/photos/6155700/pexels-photo-6155700.jpeg',
   },
   {
     id: 131,
@@ -1180,7 +1180,7 @@ export const kashmirPackages = [
     nights: '6N/7D',
     strikePrice: 52999,
     price: 47999,
-    image: 'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.pexels.com/photos/21175931/pexels-photo-21175931.jpeg',
   },
   {
     id: 132,
@@ -1188,7 +1188,7 @@ export const kashmirPackages = [
     nights: '6N/7D',
     strikePrice: 58999,
     price: 53999,
-    image: 'https://images.unsplash.com/photo-1580674684081-7617fbf4d82d?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.pexels.com/photos/13169268/pexels-photo-13169268.jpeg',
   },
 ];
 
