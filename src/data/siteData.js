@@ -1192,6 +1192,26 @@ export const kashmirPackages = [
   },
 ];
 
+// Standard inclusions and exclusions for packages
+export const packageInclusions = [
+  'Accommodation in selected hotels',
+  'Daily breakfast at the hotel',
+  'Sightseeing as per itinerary',
+  'Private transfers (airport, hotel & sightseeing)',
+  'All applicable taxes',
+  '24×7 personal assistance during the trip'
+];
+
+export const packageExclusions = [
+  'Airfare (domestic/international)',
+  'Visa charges (if applicable)',
+  'Lunch & dinner unless specified',
+  'Travel insurance',
+  'Personal expenses (shopping, tips, laundry, etc.)',
+  'Any activity or service not mentioned in inclusions',
+  'Entrance fees or optional tours (unless specified)'
+];
+
 export const packages = [
   { id: 'australia', title: 'Australia', price: 29199, image: 'https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?auto=format&fit=crop&w=800&q=80', buttonLabel: 'Book Now' },
   // When buttonLabel is 'View Package', provide detailId to navigate to Package Details page
