@@ -91,11 +91,10 @@ export const keralaBanners = [
 ];
 
 export const kashmirBanners = [
-  'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=1920&q=80',
-  'https://images.unsplash.com/photo-1580674684081-7617fbf4d82d?auto=format&fit=crop&w=1920&q=80',
-  'https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=1920&q=80',
-  'https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?auto=format&fit=crop&w=1920&q=80',
-  'https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=1920&q=80',
+  'https://images.pexels.com/photos/2907578/pexels-photo-2907578.jpeg',
+  'https://images.unsplash.com/photo-1567601169793-64703dc5324a?auto=format&fit=crop&w=1920&q=80',
+  'https://images.pexels.com/photos/14374647/pexels-photo-14374647.jpeg',
+  'https://images.unsplash.com/photo-1552098933-a5ceb0e5dd91?auto=format&fit=crop&w=1920&q=80',
 ];
 
 export const internationalDestinations = [
@@ -112,7 +111,7 @@ export const domesticDestinations = [
   { title: 'Andaman', image: 'https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80', link: '/andaman-packages' },
   { title: 'Jaipur', image: 'https://images.unsplash.com/photo-1477587458883-47145ed94245?auto=format&fit=crop&w=800&q=80', link: '/jaipur-packages' },
   { title: 'Kerala', image: 'https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=800&q=80', link: '/kerala-packages' },
-  { title: 'Kashmir', image: 'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=800&q=80', link: '/kashmir-packages' },
+  { title: 'Kashmir', image: 'https://images.unsplash.com/photo-1593417376544-4c4201061e22?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2FzaG1pcnxlbnwwfHwwfHx8Mg%3D%3D&auto=format&fit=crop&q=60&w=600', link: '/kashmir-packages' },
 ];
 
 // UAE package listing data (mirrors UAEcard.html)
@@ -969,7 +968,7 @@ export const jaipurPackages = [
 export const keralaPackages = [
   {
     id: 111,
-    title: '3-Star Kerala Backwaters - 4N/5D',
+    title: '3-Star Kerala Tour: Cochin – Alleppey – Munnar – Cochin - 4N/5D',
     nights: '4N/5D',
     strikePrice: 22999,
     price: 19999,
@@ -977,7 +976,7 @@ export const keralaPackages = [
   },
   {
     id: 112,
-    title: '4-Star Kerala Backwaters - 4N/5D',
+    title: '4-Star Kerala Tour: Cochin – Alleppey – Munnar – Cochin - 4N/5D',
     nights: '4N/5D',
     strikePrice: 28999,
     price: 25999,
@@ -985,7 +984,7 @@ export const keralaPackages = [
   },
   {
     id: 113,
-    title: '5-Star Kerala Backwaters - 4N/5D',
+    title: '5-Star Kerala Tour: Cochin – Alleppey – Munnar – Cochin - 4N/5D',
     nights: '4N/5D',
     strikePrice: 36999,
     price: 32999,
@@ -2360,11 +2359,13 @@ export const packageDetails = {
     priceHTML: '&#8377;35,999',
     destination: 'Port Blair, Havelock - Andaman',
     itinerary: {
-      'Day 1': 'Arrival at Port Blair: Arrive at Port Blair Airport and check in at your hotel. Later, unwind at Corbyn\'s Cove Beach, perfect for swimming and sunbathing. In the evening, witness the Sound & Light Show at Cellular Jail, narrating India\'s freedom struggle. Overnight: Port Blair',
-      'Day 2': 'Port Blair → Havelock Island: After breakfast, transfer to the jetty and cruise to Havelock Island — a paradise known for crystal-clear waters and vibrant marine life. Check in at your resort and later visit the world-famous Radhanagar Beach (Beach No. 7), crowned as Asia\'s Best Beach by Time Magazine. Overnight: Havelock Island',
-      'Day 3': 'Havelock – Elephant Beach Excursion: Post breakfast, head for a thrilling speedboat trip to Elephant Beach, a hotspot for snorkeling, jet skiing, and underwater sea walks (activities on direct payment basis). Return to the resort for a relaxed evening. Overnight: Havelock Island',
-      'Day 4': 'Havelock → Port Blair + Shopping: After breakfast, board the morning cruise back to Port Blair. Spend the rest of the day shopping for souvenirs or exploring the local markets at leisure. Overnight: Port Blair',
-      'Day 5': 'Departure: After breakfast, transfer to the airport for your flight home, carrying unforgettable memories of your Andaman adventure.'
+      'Day 1': 'Arrival at Port Blair:Arrive at Port Blair Airport and transfer to your hotel with assistance from our representative. After check-in, visit Corbyn’s Cove Beach — a palm-fringed paradise ideal for swimming and sunbathing. In the evening, witness the historic Sound & Light Show at Cellular Jail, narrating India’s freedom struggle. Overnight stay at Port Blair.',
+      'Day 2': 'Ross Island & North Bay (Coral Island): After breakfast, take a boat trip to explore the colonial ruins of Ross Island, followed by North Bay Island — famous for its vibrant coral reefs and underwater marine life. Return to Port Blair for an overnight stay.',
+      'Day 3': 'Port Blair – Havelock Island: Post breakfast, head for a thrilling speedboat trip to Elephant Beach, a hotspot for snorkeling, jet skiing, and underwater sea walks (activities on direct payment basis). Return to the resort for a relaxed evening. Overnight: Havelock IslandPost breakfast, board a cruise to Havelock Island, known for its serene beaches and crystal-clear waters ideal for snorkeling and diving. On arrival, check in to your hotel and relax. Later, visit Kalapathar Beach for a peaceful sunset view. Overnight at Havelock.',
+      'Day 4': 'Havelock – Radhanagar Beach: After breakfast, visit Radhanagar Beach (Beach No. 7), rated among Asia’s best beaches for its powdery white sand and turquoise waters. Spend the day relaxing or swimming. Overnight at Havelock.',
+      'Day 5': 'Havelock – Neil Island: After breakfast, head to Elephant Beach or Light House (as per weather conditions) — great for snorkeling and water sports. Later, proceed to Neil Island by ferry. Overnight stay at Neil Island.',
+      'Day 6': 'Neil Island – Port Blair: After breakfast, explore Bharatpur Beach, Laxmanpur Beach, and the natural rock formation at Howrah Bridge. Later, return to Port Blair by evening ferry. Overnight stay at Port Blair.',
+      'Day 7': 'Departure: Transfer to the airport for your return flight with beautiful memories of the Andaman Islands.'
     },
     images: ['https://images.pexels.com/photos/2554603/pexels-photo-2554603.jpeg','https://images.pexels.com/photos/2365775/pexels-photo-2365775.jpeg','https://images.pexels.com/photos/5057066/pexels-photo-5057066.jpeg','https://images.pexels.com/photos/8300245/pexels-photo-8300245.jpeg','']
   },
@@ -2373,11 +2374,13 @@ export const packageDetails = {
     priceHTML: '&#8377;41,999',
     destination: 'Port Blair, Havelock - Andaman',
     itinerary: {
-      'Day 1': 'Arrival at Port Blair: Arrive at Port Blair Airport and check in at your hotel. Later, unwind at Corbyn\'s Cove Beach, perfect for swimming and sunbathing. In the evening, witness the Sound & Light Show at Cellular Jail, narrating India\'s freedom struggle. Overnight: Port Blair',
-      'Day 2': 'Port Blair → Havelock Island: After breakfast, transfer to the jetty and cruise to Havelock Island — a paradise known for crystal-clear waters and vibrant marine life. Check in at your resort and later visit the world-famous Radhanagar Beach (Beach No. 7), crowned as Asia\'s Best Beach by Time Magazine. Overnight: Havelock Island',
-      'Day 3': 'Havelock – Elephant Beach Excursion: Post breakfast, head for a thrilling speedboat trip to Elephant Beach, a hotspot for snorkeling, jet skiing, and underwater sea walks (activities on direct payment basis). Return to the resort for a relaxed evening. Overnight: Havelock Island',
-      'Day 4': 'Havelock → Port Blair + Shopping: After breakfast, board the morning cruise back to Port Blair. Spend the rest of the day shopping for souvenirs or exploring the local markets at leisure. Overnight: Port Blair',
-      'Day 5': 'Departure: After breakfast, transfer to the airport for your flight home, carrying unforgettable memories of your Andaman adventure.'
+       'Day 1': 'Arrival at Port Blair:Arrive at Port Blair Airport and transfer to your hotel with assistance from our representative. After check-in, visit Corbyn’s Cove Beach — a palm-fringed paradise ideal for swimming and sunbathing. In the evening, witness the historic Sound & Light Show at Cellular Jail, narrating India’s freedom struggle. Overnight stay at Port Blair.',
+      'Day 2': 'Ross Island & North Bay (Coral Island): After breakfast, take a boat trip to explore the colonial ruins of Ross Island, followed by North Bay Island — famous for its vibrant coral reefs and underwater marine life. Return to Port Blair for an overnight stay.',
+      'Day 3': 'Port Blair – Havelock Island: Post breakfast, head for a thrilling speedboat trip to Elephant Beach, a hotspot for snorkeling, jet skiing, and underwater sea walks (activities on direct payment basis). Return to the resort for a relaxed evening. Overnight: Havelock IslandPost breakfast, board a cruise to Havelock Island, known for its serene beaches and crystal-clear waters ideal for snorkeling and diving. On arrival, check in to your hotel and relax. Later, visit Kalapathar Beach for a peaceful sunset view. Overnight at Havelock.',
+      'Day 4': 'Havelock – Radhanagar Beach: After breakfast, visit Radhanagar Beach (Beach No. 7), rated among Asia’s best beaches for its powdery white sand and turquoise waters. Spend the day relaxing or swimming. Overnight at Havelock.',
+      'Day 5': 'Havelock – Neil Island: After breakfast, head to Elephant Beach or Light House (as per weather conditions) — great for snorkeling and water sports. Later, proceed to Neil Island by ferry. Overnight stay at Neil Island.',
+      'Day 6': 'Neil Island – Port Blair: After breakfast, explore Bharatpur Beach, Laxmanpur Beach, and the natural rock formation at Howrah Bridge. Later, return to Port Blair by evening ferry. Overnight stay at Port Blair.',
+      'Day 7': 'Departure: Transfer to the airport for your return flight with beautiful memories of the Andaman Islands.'
     },
     images: ['https://images.pexels.com/photos/11476544/pexels-photo-11476544.jpeg','https://images.pexels.com/photos/6938750/pexels-photo-6938750.png','https://images.pexels.com/photos/18349532/pexels-photo-18349532.jpeg','https://images.pexels.com/photos/4090345/pexels-photo-4090345.jpeg',]
   },
@@ -2386,11 +2389,13 @@ export const packageDetails = {
     priceHTML: '&#8377;51,999',
     destination: 'Port Blair, Havelock - Andaman',
     itinerary: {
-      'Day 1': 'Arrival at Port Blair: Arrive at Port Blair Airport and check in at your hotel. Later, unwind at Corbyn\'s Cove Beach, perfect for swimming and sunbathing. In the evening, witness the Sound & Light Show at Cellular Jail, narrating India\'s freedom struggle. Overnight: Port Blair',
-      'Day 2': 'Port Blair → Havelock Island: After breakfast, transfer to the jetty and cruise to Havelock Island — a paradise known for crystal-clear waters and vibrant marine life. Check in at your resort and later visit the world-famous Radhanagar Beach (Beach No. 7), crowned as Asia\'s Best Beach by Time Magazine. Overnight: Havelock Island',
-      'Day 3': 'Havelock – Elephant Beach Excursion: Post breakfast, head for a thrilling speedboat trip to Elephant Beach, a hotspot for snorkeling, jet skiing, and underwater sea walks (activities on direct payment basis). Return to the resort for a relaxed evening. Overnight: Havelock Island',
-      'Day 4': 'Havelock → Port Blair + Shopping: After breakfast, board the morning cruise back to Port Blair. Spend the rest of the day shopping for souvenirs or exploring the local markets at leisure. Overnight: Port Blair',
-      'Day 5': 'Departure: After breakfast, transfer to the airport for your flight home, carrying unforgettable memories of your Andaman adventure.'
+       'Day 1': 'Arrival at Port Blair:Arrive at Port Blair Airport and transfer to your hotel with assistance from our representative. After check-in, visit Corbyn’s Cove Beach — a palm-fringed paradise ideal for swimming and sunbathing. In the evening, witness the historic Sound & Light Show at Cellular Jail, narrating India’s freedom struggle. Overnight stay at Port Blair.',
+      'Day 2': 'Ross Island & North Bay (Coral Island): After breakfast, take a boat trip to explore the colonial ruins of Ross Island, followed by North Bay Island — famous for its vibrant coral reefs and underwater marine life. Return to Port Blair for an overnight stay.',
+      'Day 3': 'Port Blair – Havelock Island: Post breakfast, head for a thrilling speedboat trip to Elephant Beach, a hotspot for snorkeling, jet skiing, and underwater sea walks (activities on direct payment basis). Return to the resort for a relaxed evening. Overnight: Havelock IslandPost breakfast, board a cruise to Havelock Island, known for its serene beaches and crystal-clear waters ideal for snorkeling and diving. On arrival, check in to your hotel and relax. Later, visit Kalapathar Beach for a peaceful sunset view. Overnight at Havelock.',
+      'Day 4': 'Havelock – Radhanagar Beach: After breakfast, visit Radhanagar Beach (Beach No. 7), rated among Asia’s best beaches for its powdery white sand and turquoise waters. Spend the day relaxing or swimming. Overnight at Havelock.',
+      'Day 5': 'Havelock – Neil Island: After breakfast, head to Elephant Beach or Light House (as per weather conditions) — great for snorkeling and water sports. Later, proceed to Neil Island by ferry. Overnight stay at Neil Island.',
+      'Day 6': 'Neil Island – Port Blair: After breakfast, explore Bharatpur Beach, Laxmanpur Beach, and the natural rock formation at Howrah Bridge. Later, return to Port Blair by evening ferry. Overnight stay at Port Blair.',
+      'Day 7': 'Departure: Transfer to the airport for your return flight with beautiful memories of the Andaman Islands.'
     },
     images: ['https://images.pexels.com/photos/31754070/pexels-photo-31754070.jpeg','https://images.pexels.com/photos/31846442/pexels-photo-31846442.jpeg','https://images.pexels.com/photos/2403207/pexels-photo-2403207.jpeg','https://images.pexels.com/photos/7954230/pexels-photo-7954230.jpeg']
   },
@@ -2501,7 +2506,7 @@ export const packageDetails = {
       'Palace Timings': 'Dutch Palace: Closed on Fridays',
       'Synagogue Timings': 'Jewish Synagogue: 10 AM – 1 PM & 3 PM – 5 PM (Closed on Fridays & Saturdays)'
     },
-    images: ['https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8a2VyYWxhfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600']
+    images: ['https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGtlcmFsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600','https://images.pexels.com/photos/1065753/pexels-photo-1065753.jpeg','https://images.pexels.com/photos/980178/pexels-photo-980178.jpeg','https://images.unsplash.com/photo-1585229190075-5d94076e3c81?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGtlcmFsYSUyMG5hdHVyZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600']
   },
   118: {
     name: '4-Star 7-Day Kerala Bliss: Cochin – Munnar – Thekkady – Alleppey – Cochin',
@@ -2521,7 +2526,7 @@ export const packageDetails = {
       'Palace Timings': 'Dutch Palace: Closed on Fridays',
       'Synagogue Timings': 'Jewish Synagogue: 10 AM – 1 PM & 3 PM – 5 PM (Closed on Fridays & Saturdays)'
     },
-    images: ['https://images.unsplash.com/photo-1583513645242-25a32d451084?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8a2VyYWxhfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600']
+    images: ['https://plus.unsplash.com/premium_photo-1697729432049-caca66a1dab6?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGtlcmFsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600','https://images.unsplash.com/photo-1583513645242-25a32d451084?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8a2VyYWxhJTIwbmF0dXJlfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600','https://images.unsplash.com/photo-1708587883952-f0510aff91b0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGtlcmFsYSUyMG5hdHVyZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600','https://images.unsplash.com/photo-1589658063440-3556088b008e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGtlcmFsYSUyMG5hdHVyZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600']
   },
   119: {
     name: '5-Star 7-Day Kerala Bliss: Cochin – Munnar – Thekkady – Alleppey – Cochin',
@@ -2541,7 +2546,7 @@ export const packageDetails = {
       'Palace Timings': 'Dutch Palace: Closed on Fridays',
       'Synagogue Timings': 'Jewish Synagogue: 10 AM – 1 PM & 3 PM – 5 PM (Closed on Fridays & Saturdays)'
     },
-    images: ['https://plus.unsplash.com/premium_photo-1697730310113-e44fced8e86c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8a2VyYWxhfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600']
+    images: ['https://media.istockphoto.com/id/1347088244/photo/kerala-most-beautiful-place-of-india.webp?a=1&b=1&s=612x612&w=0&k=20&c=azs5OiyZpD_zPj96NASr737IVrCq2_m0iu08EVDvIvE=','https://images.pexels.com/photos/962464/pexels-photo-962464.jpeg','https://images.pexels.com/photos/392100/pexels-photo-392100.jpeg','https://images.pexels.com/photos/1273246/pexels-photo-1273246.jpeg']
   },
   120: {
     name: '3-Star 8 Days / 7 Nights Kanyakumari – Rameshwaram – Kerala Tour',
@@ -2652,10 +2657,10 @@ export const packageDetails = {
       'Day 7': 'Srinagar – Departure: After breakfast, bid farewell to the land of eternal beauty and heartfelt hospitality. Your driver will transfer you to Srinagar Airport for your onward journey, carrying with you memories of a paradise that will forever stay in your heart. End of the Journey – But Memories Forever Stay'
     },
     images: [
-      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1580674684081-7617fbf4d82d?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?auto=format&fit=crop&w=800&q=80',
+      'https://images.unsplash.com/photo-1643449415972-87d4cfe882a1?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGthc2htaXJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&q=60&w=600',
+      'https://images.unsplash.com/photo-1646204894165-95ed03d988ad?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGthc2htaXJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&q=60&w=600',
+      'https://images.unsplash.com/photo-1567601169793-64703dc5324a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGthc2htaXJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&q=60&w=600',
+      'https://images.unsplash.com/photo-1621232082074-1a7750ecc557?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8a2FzaG1pcnxlbnwwfHwwfHx8Mg%3D%3D&auto=format&fit=crop&q=60&w=600',
     ],
   },
   122: {
@@ -2672,10 +2677,10 @@ export const packageDetails = {
       'Day 7': 'Srinagar – Departure: After breakfast, bid farewell to the land of eternal beauty and heartfelt hospitality. Your driver will transfer you to Srinagar Airport for your onward journey, carrying with you memories of a paradise that will forever stay in your heart. End of the Journey – But Memories Forever Stay'
     },
     images: [
-      'https://images.unsplash.com/photo-1580674684081-7617fbf4d82d?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=800&q=80',
+      'https://images.pexels.com/photos/2414433/pexels-photo-2414433.jpeg',
+      'https://images.unsplash.com/photo-1567601169793-64703dc5324a?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGthc2htaXJ8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&q=60&w=600',
+      'https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGFuZHNjYXBlfGVufDB8fDB8fHwy&auto=format&fit=crop&q=60&w=600',
+      'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bGFuZHNjYXBlfGVufDB8fDB8fHwy&auto=format&fit=crop&q=60&w=600',
     ],
   },
   123: {
@@ -2692,10 +2697,10 @@ export const packageDetails = {
       'Day 7': 'Srinagar – Departure: After breakfast, bid farewell to the land of eternal beauty and heartfelt hospitality. Your driver will transfer you to Srinagar Airport for your onward journey, carrying with you memories of a paradise that will forever stay in your heart. End of the Journey – But Memories Forever Stay'
     },
     images: [
-      'https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1580674684081-7617fbf4d82d?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?auto=format&fit=crop&w=800&q=80',
+      'https://images.unsplash.com/photo-1527489377706-5bf97e608852?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGxhbmRzY2FwZXxlbnwwfHwwfHx8Mg%3D%3D&auto=format&fit=crop&q=60&w=600',
+      'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bGFuZHNjYXBlfGVufDB8fDB8fHwy&auto=format&fit=crop&q=60&w=600',
+      'https://images.unsplash.com/photo-1470770841072-f978cf4d019e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bGFuZHNjYXBlfGVufDB8fDB8fHwy&auto=format&fit=crop&q=60&w=600',
+      'https://images.unsplash.com/photo-1465056836041-7f43ac27dcb5?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGxhbmRzY2FwZXxlbnwwfHwwfHx8Mg%3D%3D&auto=format&fit=crop&q=60&w=600',
     ],
   },
   124: {

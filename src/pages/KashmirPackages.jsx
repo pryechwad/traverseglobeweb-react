@@ -1,19 +1,7 @@
 import { useMemo, useState } from 'react';
-import { kashmirPackages } from '../data/siteData';
+import { kashmirPackages, kashmirBanners } from '../data/siteData';
 import PackageCard from '../components/PackageCard';
 import HeroSlider from '../components/HeroSlider';
-
-// Kashmir banners - using Kashmir related images
-const kashmirBanners = [
-  {
-    image: 'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=1920&q=80',
-    alt: 'Kashmir Valley'
-  },
-  {
-    image: 'https://images.unsplash.com/photo-1586500036706-41963de24d8b?auto=format&fit=crop&w=1920&q=80',
-    alt: 'Dal Lake'
-  }
-];
 
 const KashmirPackages = () => {
   const [query, setQuery] = useState('');
