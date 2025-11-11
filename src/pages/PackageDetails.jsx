@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { packageDetails, uaePackages, baliPackages, thailandPackages, singaporePackages, srilankaPackages, vietnamPackages, laosPackages, andamanPackages, jaipurPackages, keralaPackages, kashmirPackages } from '../data/siteData';
+import { packageDetails, uaePackages, baliPackages, thailandPackages, singaporePackages, srilankaPackages, vietnamPackages, laosPackages, andamanPackages, jaipurPackages, keralaPackages, kashmirPackages, packageInclusions, packageExclusions } from '../data/siteData';
 import { slugify } from '../utils/slug';
 import PackageCard from '../components/PackageCard';
 
@@ -266,7 +266,7 @@ export default function PackageDetails() {
                       <i className="fas fa-check-circle text-[#075056]"/>What's Included
                     </h5>
                     <ul className="space-y-3">
-                      {getInclusions(pkgId).map((item,i)=>(
+                      {packageInclusions.map((item,i)=>(
                         <li key={i} className="flex items-start gap-3 text-[#16232A]">
                           <i className="fas fa-check-circle text-[#075056] mt-1 flex-shrink-0"/> 
                           <span>{item}</span>
@@ -279,7 +279,7 @@ export default function PackageDetails() {
                       <i className="fas fa-times-circle"/>What's Not Included
                     </h5>
                     <ul className="space-y-3">
-                      {getExclusions().map((item,i)=>(
+                      {packageExclusions.map((item,i)=>(
                         <li key={i} className="flex items-start gap-3 text-red-800">
                           <i className="fas fa-times-circle text-red-600 mt-1 flex-shrink-0"/> 
                           <span>{item}</span>
