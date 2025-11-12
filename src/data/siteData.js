@@ -2697,10 +2697,10 @@ export const packageDetails = {
       'Day 7': 'Srinagar – Departure: After breakfast, bid farewell to the land of eternal beauty and heartfelt hospitality. Your driver will transfer you to Srinagar Airport for your onward journey, carrying with you memories of a paradise that will forever stay in your heart. End of the Journey – But Memories Forever Stay'
     },
     images: [
-      'https://images.unsplash.com/photo-1527489377706-5bf97e608852?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGxhbmRzY2FwZXxlbnwwfHwwfHx8Mg%3D%3D&auto=format&fit=crop&q=60&w=600',
-      'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bGFuZHNjYXBlfGVufDB8fDB8fHwy&auto=format&fit=crop&q=60&w=600',
-      'https://images.unsplash.com/photo-1470770841072-f978cf4d019e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bGFuZHNjYXBlfGVufDB8fDB8fHwy&auto=format&fit=crop&q=60&w=600',
-      'https://images.unsplash.com/photo-1465056836041-7f43ac27dcb5?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGxhbmRzY2FwZXxlbnwwfHwwfHx8Mg%3D%3D&auto=format&fit=crop&q=60&w=600',
+      'https://images.unsplash.com/photo-1527489377706-5bf97e608852?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGxhbmRzY2FwZXxlbnwwfHwwfHx8Mg%3D%3D&auto=format&fit=crop&q=40&w=400',
+      'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bGFuZHNjYXBlfGVufDB8fDB8fHwy&auto=format&fit=crop&q=40&w=400',
+      'https://images.unsplash.com/photo-1470770841072-f978cf4d019e?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bGFuZHNjYXBlfGVufDB8fDB8fHwy&auto=format&fit=crop&q=40&w=400',
+      'https://images.unsplash.com/photo-1465056836041-7f43ac27dcb5?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGxhbmRzY2FwZXxlbnwwfHwwfHx8Mg%3D%3D&auto=format&fit=crop&q=40&w=400',
     ],
   },
   124: {
@@ -2708,10 +2708,10 @@ export const packageDetails = {
     priceHTML: '&#8377;27,999',
     destination: 'Srinagar, Kashmir',
     images: [
-      'https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=800&q=80',
+      'https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=400&q=40',
     ],
   },
   125: {
@@ -2719,10 +2719,10 @@ export const packageDetails = {
     priceHTML: '&#8377;33,999',
     destination: 'Srinagar, Kashmir',
     images: [
-      'https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=800&q=80',
+      'https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=400&q=40',
     ],
   },
   126: {
@@ -2730,10 +2730,10 @@ export const packageDetails = {
     priceHTML: '&#8377;42,999',
     destination: 'Srinagar, Kashmir',
     images: [
-      'https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1580674684081-7617fbf4d82d?auto=format&fit=crop&w=800&q=80',
+      'https://images.unsplash.com/photo-1518684079-3c830dcef090?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1580674684081-7617fbf4d82d?auto=format&fit=crop&w=400&q=40',
     ],
   },
   127: {
@@ -2741,10 +2741,10 @@ export const packageDetails = {
     priceHTML: '&#8377;31,999',
     destination: 'Srinagar, Kashmir',
     images: [
-      'https://images.unsplash.com/photo-1559804506-669a67965ba0?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1580674684081-7617fbf4d82d?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=800&q=80',
+      'https://images.unsplash.com/photo-1559804506-669a67965ba0?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1580674684081-7617fbf4d82d?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=400&q=40',
     ],
   },
   128: {
@@ -2752,10 +2752,10 @@ export const packageDetails = {
     priceHTML: '&#8377;37,999',
     destination: 'Srinagar, Kashmir',
     images: [
-      'https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1559804506-669a67965ba0?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?auto=format&fit=crop&w=800&q=80',
+      'https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1559804506-669a67965ba0?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?auto=format&fit=crop&w=400&q=40',
     ],
   },
   129: {
@@ -2763,10 +2763,10 @@ export const packageDetails = {
     priceHTML: '&#8377;48,999',
     destination: 'Srinagar, Kashmir',
     images: [
-      'https://images.unsplash.com/photo-1508964942454-1a56651d54ac?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1559804506-669a67965ba0?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1580674684081-7617fbf4d82d?auto=format&fit=crop&w=800&q=80',
+      'https://images.unsplash.com/photo-1508964942454-1a56651d54ac?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1559804506-669a67965ba0?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1580674684081-7617fbf4d82d?auto=format&fit=crop&w=400&q=40',
     ],
   },
   130: {
@@ -2774,10 +2774,10 @@ export const packageDetails = {
     priceHTML: '&#8377;42,999',
     destination: 'Srinagar, Kashmir',
     images: [
-      'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1580674684081-7617fbf4d82d?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=800&q=80',
+      'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1580674684081-7617fbf4d82d?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=400&q=40',
     ],
   },
   131: {
@@ -2785,10 +2785,10 @@ export const packageDetails = {
     priceHTML: '&#8377;47,999',
     destination: 'Srinagar, Kashmir',
     images: [
-      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1580674684081-7617fbf4d82d?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?auto=format&fit=crop&w=800&q=80',
+      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1580674684081-7617fbf4d82d?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?auto=format&fit=crop&w=400&q=40',
     ],
   },
   132: {
@@ -2796,10 +2796,10 @@ export const packageDetails = {
     priceHTML: '&#8377;53,999',
     destination: 'Srinagar, Kashmir',
     images: [
-      'https://images.unsplash.com/photo-1580674684081-7617fbf4d82d?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=800&q=80',
-      'https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=800&q=80',
+      'https://images.unsplash.com/photo-1580674684081-7617fbf4d82d?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1605649487212-47b9f5c1e813?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1540979388789-6cee28a1cdc9?auto=format&fit=crop&w=400&q=40',
+      'https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=400&q=40',
     ],
   },
 };

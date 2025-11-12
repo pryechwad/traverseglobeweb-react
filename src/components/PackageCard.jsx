@@ -68,8 +68,8 @@ export default function PackageCard({ pkg, onView, buttonLabel = 'View Package',
     <div className="custom-card group bg-white h-full flex flex-col">
       <div className="relative overflow-hidden rounded-t-2xl">
         <img
-          src={pkg.image.replace(/w=\d+/, 'w=800').replace(/q=\d+/, 'q=70')}
-          srcSet={`${pkg.image.replace(/w=\d+/, 'w=480').replace(/q=\d+/, 'q=70')} 480w, ${pkg.image.replace(/w=\d+/, 'w=800').replace(/q=\d+/, 'q=70')} 800w, ${pkg.image.replace(/w=\d+/, 'w=1200').replace(/q=\d+/, 'q=70')} 1200w`}
+          src={pkg.image.replace(/w=\d+/, 'w=400').replace(/q=\d+/, 'q=40')}
+          srcSet={`${pkg.image.replace(/w=\d+/, 'w=320').replace(/q=\d+/, 'q=40')} 320w, ${pkg.image.replace(/w=\d+/, 'w=400').replace(/q=\d+/, 'q=40')} 400w, ${pkg.image.replace(/w=\d+/, 'w=600').replace(/q=\d+/, 'q=40')} 600w`}
           sizes="(min-width: 1024px) 25vw, (min-width: 768px) 33vw, (min-width: 640px) 50vw, 100vw"
           alt={pkg.title}
           loading="lazy"
