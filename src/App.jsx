@@ -20,6 +20,7 @@ const AndamanPackages = lazy(() => import('./pages/AndamanPackages'));
 const JaipurPackages = lazy(() => import('./pages/JaipurPackages'));
 const KeralaPackages = lazy(() => import('./pages/KeralaPackages'));
 const KashmirPackages = lazy(() => import('./pages/KashmirPackages'));
+const BhutanPackages = lazy(() => import('./pages/BhutanPackages'));
 const PackageDetails = lazy(() => import('./pages/PackageDetails'));
 const PackageRedirect = lazy(() => import('./pages/PackageRedirect'));
 
@@ -67,6 +68,8 @@ function App() {
               <Route path="/kerala-packages/:slug" element={<PackageDetails />} />
               <Route path="/kashmir-packages" element={<KashmirPackages />} />
               <Route path="/kashmir-packages/:slug" element={<PackageDetails />} />
+              <Route path="/bhutan-packages" element={<BhutanPackages />} />
+              <Route path="/bhutan-packages/:slug" element={<PackageDetails />} />
               {/* Backward compatibility: redirect old slug URLs to nested category path */}
               <Route path="/package/:slug" element={<PackageRedirect />} />
             </Routes>

@@ -97,14 +97,23 @@ export const kashmirBanners = [
   'https://images.unsplash.com/photo-1552098933-a5ceb0e5dd91?auto=format&fit=crop&w=1920&q=80',
 ];
 
+export const bhutanBanners = [
+  'https://images.pexels.com/photos/4122349/pexels-photo-4122349.jpeg?auto=compress&cs=tinysrgb&w=1920&h=650&fit=crop&q=60',
+  'https://images.pexels.com/photos/33345292/pexels-photo-33345292.jpeg?auto=compress&cs=tinysrgb&w=1920&h=650&fit=crop&q=60',
+  'https://plus.unsplash.com/premium_photo-1661952578770-79010299a9f9?w=1920&h=650&auto=format&fit=crop&q=40&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Ymh1dGFufGVufDB8fDB8fHww',
+  'https://plus.unsplash.com/premium_photo-1692976235042-32bc7f884c79?w=1920&h=650&auto=format&fit=crop&q=40&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Ymh1dGFufGVufDB8fDB8fHww',
+  'https://plus.unsplash.com/premium_photo-1697729729075-3e56242aef49?w=1920&h=650&auto=format&fit=crop&q=40&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGJodXRhbnxlbnwwfHwwfHx8MA%3D%3D',
+];
+
 export const internationalDestinations = [
-  { title: 'UAE', image: 'https://images.pexels.com/photos/162031/dubai-tower-arab-khalifa-162031.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop', link: '/uae-packages' },
-  { title: 'Bali', image: 'https://images.pexels.com/photos/3067621/pexels-photo-3067621.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop', link: '/bali-packages' },
-  { title: 'Thailand', image: 'https://images.pexels.com/photos/472309/pexels-photo-472309.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop', link: '/thailand-packages' },
-  { title: 'Singapore', image: 'https://images.pexels.com/photos/711193/pexels-photo-711193.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop', link: '/singapore-packages' },
-  { title: 'Sri Lanka', image: 'https://images.pexels.com/photos/16508228/pexels-photo-16508228.jpeg?auto=compress&cs=tinysrgb&w=800', link: '/srilanka-packages' },
-  { title: 'Vietnam', image: 'https://images.pexels.com/photos/4652275/pexels-photo-4652275.jpeg?auto=compress&cs=tinysrgb&w=800', link: '/vietnam-packages' },
-  { title: 'Laos', image: 'https://plus.unsplash.com/premium_photo-1661916287718-edb15703cbaf?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGFvc3xlbnwwfHwwfHx8MA%3D%3D&fm=jpg&q=60&w=3000', link: '/laos-packages' },
+  { title: 'UAE', image: 'https://images.pexels.com/photos/162031/dubai-tower-arab-khalifa-162031.jpeg?auto=compress&cs=tinysrgb&w=400&q=40', link: '/uae-packages' },
+  { title: 'Bali', image: 'https://images.pexels.com/photos/3067621/pexels-photo-3067621.jpeg?auto=compress&cs=tinysrgb&w=400&q=40', link: '/bali-packages' },
+  { title: 'Thailand', image: 'https://images.pexels.com/photos/472309/pexels-photo-472309.jpeg?auto=compress&cs=tinysrgb&w=400&q=40', link: '/thailand-packages' },
+  { title: 'Singapore', image: 'https://images.pexels.com/photos/711193/pexels-photo-711193.jpeg?auto=compress&cs=tinysrgb&w=400&q=40', link: '/singapore-packages' },
+  { title: 'Sri Lanka', image: 'https://images.pexels.com/photos/16508228/pexels-photo-16508228.jpeg?auto=compress&cs=tinysrgb&w=400&q=40', link: '/srilanka-packages' },
+  { title: 'Vietnam', image: 'https://images.pexels.com/photos/4652275/pexels-photo-4652275.jpeg?auto=compress&cs=tinysrgb&w=400&q=40', link: '/vietnam-packages' },
+  { title: 'Laos', image: 'https://plus.unsplash.com/premium_photo-1661916287718-edb15703cbaf?auto=format&fit=crop&w=400&q=40', link: '/laos-packages' },
+  { title: 'Bhutan', image: 'https://images.pexels.com/photos/29000349/pexels-photo-29000349.jpeg?auto=compress&cs=tinysrgb&w=400&q=40', link: '/bhutan-packages' },
 ];
 
 export const domesticDestinations = [
@@ -669,6 +678,90 @@ export const vietnamPackages = [
     strikePrice: 86999,
     price: 81999,
     image: 'https://images.pexels.com/photos/2993132/pexels-photo-2993132.jpeg',
+  },
+];
+
+// Bhutan package listing data
+export const bhutanPackages = [
+  {
+    id: 140,
+    title: '3-Star Bhutan Cultural Tour - 4N/5D',
+    nights: '4N/5D',
+    strikePrice: 45999,
+    price: 39999,
+    image: 'https://plus.unsplash.com/premium_photo-1697729729075-3e56242aef49?w=400&auto=format&fit=crop&q=40&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGJodXRhbnxlbnwwfHwwfHx8MA%3D%3D',
+  },
+  {
+    id: 141,
+    title: '4-Star Bhutan Cultural Tour - 4N/5D',
+    nights: '4N/5D',
+    strikePrice: 52999,
+    price: 46999,
+    image: 'https://plus.unsplash.com/premium_photo-1692976235042-32bc7f884c79?w=400&auto=format&fit=crop&q=40&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Ymh1dGFufGVufDB8fDB8fHww',
+  },
+  {
+    id: 142,
+    title: '5-Star Bhutan Cultural Tour - 4N/5D',
+    nights: '4N/5D',
+    strikePrice: 62999,
+    price: 55999,
+    image: 'https://images.unsplash.com/photo-1532008779255-4b4dd2668c84?w=400&auto=format&fit=crop&q=40&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJodXRhbnxlbnwwfHwwfHx8MA%3D%3D',
+  },
+  {
+    id: 143,
+    title: '3-Star Bhutan Monastery Trail - 5N/6D',
+    nights: '5N/6D',
+    strikePrice: 52999,
+    price: 47999,
+    image: 'https://images.pexels.com/photos/34680568/pexels-photo-34680568.jpeg?auto=compress&cs=tinysrgb&w=400&q=40',
+  },
+  {
+    id: 144,
+    title: '4-Star Bhutan Monastery Trail - 5N/6D',
+    nights: '5N/6D',
+    strikePrice: 59999,
+    price: 53999,
+    image: 'https://images.pexels.com/photos/34646712/pexels-photo-34646712.jpeg?auto=compress&cs=tinysrgb&w=400&q=40',
+  },
+  {
+    id: 145,
+    title: '5-Star Bhutan Monastery Trail - 5N/6D',
+    nights: '5N/6D',
+    strikePrice: 69999,
+    price: 62999,
+    image: 'https://images.pexels.com/photos/910368/pexels-photo-910368.jpeg?auto=compress&cs=tinysrgb&w=400&q=40',
+  },
+  {
+    id: 146,
+    title: '3-Star Bhutan Himalayan Adventure - 6N/7D',
+    nights: '6N/7D',
+    strikePrice: 58999,
+    price: 52999,
+    image: 'https://images.pexels.com/photos/33358042/pexels-photo-33358042.jpeg?auto=compress&cs=tinysrgb&w=400&q=40',
+  },
+  {
+    id: 147,
+    title: '4-Star Bhutan Himalayan Adventure - 6N/7D',
+    nights: '6N/7D',
+    strikePrice: 66999,
+    price: 59999,
+    image: 'https://images.pexels.com/photos/5966251/pexels-photo-5966251.jpeg?auto=compress&cs=tinysrgb&w=400&q=40',
+  },
+  {
+    id: 148,
+    title: '5-Star Bhutan Himalayan Adventure - 6N/7D',
+    nights: '6N/7D',
+    strikePrice: 76999,
+    price: 69999,
+    image: 'https://images.pexels.com/photos/16492568/pexels-photo-16492568.jpeg?auto=compress&cs=tinysrgb&w=400&q=40',
+  },
+  {
+    id: 149,
+    title: 'Bhutan Complete Experience - 7N/8D',
+    nights: '7N/8D',
+    strikePrice: 72999,
+    price: 65999,
+    image: 'https://images.pexels.com/photos/16524365/pexels-photo-16524365.jpeg?auto=compress&cs=tinysrgb&w=400&q=40',
   },
 ];
 
@@ -2271,6 +2364,117 @@ export const packageDetails = {
       'https://images.unsplash.com/photo-1582672060674-bc2bd808a8b5?w=1200',
     ],
   },
+  // Bhutan Package Details (140-149)
+  140: {
+    name: '3-Star Bhutan Cultural Tour - 4N/5D',
+    priceHTML: '&#8377;39,999',
+    destination: 'Thimphu, Paro - Bhutan',
+    images: [
+      'https://plus.unsplash.com/premium_photo-1697729729075-3e56242aef49?w=800&auto=format&fit=crop&q=40&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGJodXRhbnxlbnwwfHwwfHx8MA%3D%3D',
+      'https://plus.unsplash.com/premium_photo-1692976235042-32bc7f884c79?w=800&auto=format&fit=crop&q=40&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Ymh1dGFufGVufDB8fDB8fHww',
+      'https://images.unsplash.com/photo-1532008779255-4b4dd2668c84?w=800&auto=format&fit=crop&q=40&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJodXRhbnxlbnwwfHwwfHx8MA%3D%3D',
+      'https://images.pexels.com/photos/34680568/pexels-photo-34680568.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+    ],
+  },
+  141: {
+    name: '4-Star Bhutan Cultural Tour - 4N/5D',
+    priceHTML: '&#8377;46,999',
+    destination: 'Thimphu, Paro - Bhutan',
+    images: [
+      'https://plus.unsplash.com/premium_photo-1692976235042-32bc7f884c79?w=800&auto=format&fit=crop&q=40&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Ymh1dGFufGVufDB8fDB8fHww',
+      'https://images.pexels.com/photos/34646712/pexels-photo-34646712.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://images.pexels.com/photos/910368/pexels-photo-910368.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://images.pexels.com/photos/33358042/pexels-photo-33358042.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+    ],
+  },
+  142: {
+    name: '5-Star Bhutan Cultural Tour - 4N/5D',
+    priceHTML: '&#8377;55,999',
+    destination: 'Thimphu, Paro - Bhutan',
+    images: [
+      'https://images.unsplash.com/photo-1532008779255-4b4dd2668c84?w=800&auto=format&fit=crop&q=40&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJodXRhbnxlbnwwfHwwfHx8MA%3D%3D',
+      'https://images.pexels.com/photos/5966251/pexels-photo-5966251.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://images.pexels.com/photos/16492568/pexels-photo-16492568.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://images.pexels.com/photos/16524365/pexels-photo-16524365.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+    ],
+  },
+  143: {
+    name: '3-Star Bhutan Monastery Trail - 5N/6D',
+    priceHTML: '&#8377;47,999',
+    destination: 'Thimphu, Paro, Punakha - Bhutan',
+    images: [
+      'https://images.pexels.com/photos/34680568/pexels-photo-34680568.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://images.pexels.com/photos/34646712/pexels-photo-34646712.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://images.pexels.com/photos/910368/pexels-photo-910368.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://plus.unsplash.com/premium_photo-1697729729075-3e56242aef49?w=800&auto=format&fit=crop&q=40&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGJodXRhbnxlbnwwfHwwfHx8MA%3D%3D',
+    ],
+  },
+  144: {
+    name: '4-Star Bhutan Monastery Trail - 5N/6D',
+    priceHTML: '&#8377;53,999',
+    destination: 'Thimphu, Paro, Punakha - Bhutan',
+    images: [
+      'https://images.pexels.com/photos/34646712/pexels-photo-34646712.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://images.pexels.com/photos/33358042/pexels-photo-33358042.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://images.pexels.com/photos/5966251/pexels-photo-5966251.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://plus.unsplash.com/premium_photo-1692976235042-32bc7f884c79?w=800&auto=format&fit=crop&q=40&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Ymh1dGFufGVufDB8fDB8fHww',
+    ],
+  },
+  145: {
+    name: '5-Star Bhutan Monastery Trail - 5N/6D',
+    priceHTML: '&#8377;62,999',
+    destination: 'Thimphu, Paro, Punakha - Bhutan',
+    images: [
+      'https://images.pexels.com/photos/910368/pexels-photo-910368.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://images.pexels.com/photos/16492568/pexels-photo-16492568.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://images.pexels.com/photos/16524365/pexels-photo-16524365.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://images.unsplash.com/photo-1532008779255-4b4dd2668c84?w=800&auto=format&fit=crop&q=40&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJodXRhbnxlbnwwfHwwfHx8MA%3D%3D',
+    ],
+  },
+  146: {
+    name: '3-Star Bhutan Himalayan Adventure - 6N/7D',
+    priceHTML: '&#8377;52,999',
+    destination: 'Thimphu, Paro, Punakha, Wangdue - Bhutan',
+    images: [
+      'https://images.pexels.com/photos/33358042/pexels-photo-33358042.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://images.pexels.com/photos/5966251/pexels-photo-5966251.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://images.pexels.com/photos/16492568/pexels-photo-16492568.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://plus.unsplash.com/premium_photo-1697729729075-3e56242aef49?w=800&auto=format&fit=crop&q=40&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGJodXRhbnxlbnwwfHwwfHx8MA%3D%3D',
+    ],
+  },
+  147: {
+    name: '4-Star Bhutan Himalayan Adventure - 6N/7D',
+    priceHTML: '&#8377;59,999',
+    destination: 'Thimphu, Paro, Punakha, Wangdue - Bhutan',
+    images: [
+      'https://images.pexels.com/photos/5966251/pexels-photo-5966251.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://images.pexels.com/photos/16524365/pexels-photo-16524365.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://plus.unsplash.com/premium_photo-1692976235042-32bc7f884c79?w=800&auto=format&fit=crop&q=40&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Ymh1dGFufGVufDB8fDB8fHww',
+      'https://images.pexels.com/photos/34680568/pexels-photo-34680568.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+    ],
+  },
+  148: {
+    name: '5-Star Bhutan Himalayan Adventure - 6N/7D',
+    priceHTML: '&#8377;69,999',
+    destination: 'Thimphu, Paro, Punakha, Wangdue - Bhutan',
+    images: [
+      'https://images.pexels.com/photos/16492568/pexels-photo-16492568.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://images.pexels.com/photos/910368/pexels-photo-910368.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://images.unsplash.com/photo-1532008779255-4b4dd2668c84?w=800&auto=format&fit=crop&q=40&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJodXRhbnxlbnwwfHwwfHx8MA%3D%3D',
+      'https://images.pexels.com/photos/34646712/pexels-photo-34646712.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+    ],
+  },
+  149: {
+    name: 'Bhutan Complete Experience - 7N/8D',
+    priceHTML: '&#8377;65,999',
+    destination: 'Thimphu, Paro, Punakha, Wangdue, Bumthang - Bhutan',
+    images: [
+      'https://images.pexels.com/photos/16524365/pexels-photo-16524365.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://plus.unsplash.com/premium_photo-1697729729075-3e56242aef49?w=800&auto=format&fit=crop&q=40&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGJodXRhbnxlbnwwfHwwfHx8MA%3D%3D',
+      'https://images.pexels.com/photos/33358042/pexels-photo-33358042.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+      'https://images.pexels.com/photos/5966251/pexels-photo-5966251.jpeg?auto=compress&cs=tinysrgb&w=800&q=40',
+    ],
+  },
   // Andaman Package Details (91-100)
   91: {
     name: '3-Star Alluring Andamans - 4N/5D',
@@ -2641,6 +2845,124 @@ export const packageDetails = {
       'Day 7': 'Departure – Memories of Kerala: After breakfast, our representative will assist you with all departure formalities as you carry home the unforgettable memories of your Kerala Bliss holiday. Transfer to Cochin Airport/Railway Station/Bus Stand for your onward journey.'
     },
     images: ['https://images.unsplash.com/photo-1491497895121-1334fc14d8c9?auto=format&fit=crop&w=800&q=80','https://images.pexels.com/photos/1065753/pexels-photo-1065753.jpeg','https://images.pexels.com/photos/34645211/pexels-photo-34645211.jpeg','https://images.pexels.com/photos/32992107/pexels-photo-32992107.jpeg']
+  },
+  // Bhutan Package Details (140-149)
+  140: {
+    name: '3-Star Bhutan Cultural Tour - 4N/5D',
+    priceHTML: '&#8377;39,999',
+    destination: 'Thimphu, Paro - Bhutan',
+    itinerary: {
+      'Day 1': 'Arrival in Paro – Welcome to the Last Shangri-La: Arrive at Paro International Airport, one of the most challenging airports in the world. Meet your guide and drive to Thimphu, the capital city. Visit the Memorial Chorten and Tashichho Dzong. Evening at leisure to explore the local markets. Overnight in Thimphu.',
+      'Day 2': 'Thimphu Sightseeing – Monasteries and Culture: Visit the Giant Buddha Dordenma statue, Changangkha Lhakhang monastery, and the National Library. Explore the weekend market and traditional handicrafts. Visit the Takin Preserve to see Bhutan\'s national animal. Overnight in Thimphu.',
+      'Day 3': 'Thimphu to Paro – Tiger\'s Nest Preparation: Drive to Paro and visit Paro Dzong and National Museum. Explore Paro town and prepare for tomorrow\'s Tiger\'s Nest hike. Visit local farmhouses and experience Bhutanese hospitality. Overnight in Paro.',
+      'Day 4': 'Tiger\'s Nest Monastery Hike – Spiritual Journey: Early morning hike to the famous Tiger\'s Nest Monastery (Paro Taktsang), perched dramatically on a cliff 900 meters above the valley floor. This sacred site is where Guru Rinpoche meditated for 3 years, 3 months, 3 weeks, and 3 days. Return to Paro for rest. Overnight in Paro.',
+      'Day 5': 'Departure – Farewell to the Land of the Thunder Dragon: Transfer to Paro Airport for your departure flight, carrying memories of the mystical kingdom of Bhutan.'
+    },
+    images: [
+      'https://images.pexels.com/photos/34646712/pexels-photo-34646712.jpeg',
+      'https://images.pexels.com/photos/34646718/pexels-photo-34646718.jpeg',
+      'https://images.pexels.com/photos/2810265/pexels-photo-2810265.jpeg',
+      'https://images.pexels.com/photos/18718814/pexels-photo-18718814.jpeg',
+    ],
+  },
+  141: {
+    name: '4-Star Bhutan Cultural Tour - 4N/5D',
+    priceHTML: '&#8377;46,999',
+    destination: 'Thimphu, Paro - Bhutan',
+    images: [
+      'https://images.pexels.com/photos/7967949/pexels-photo-7967949.jpeg',
+      'https://images.pexels.com/photos/6904721/pexels-photo-6904721.jpeg',
+      'https://images.pexels.com/photos/20724436/pexels-photo-20724436.jpeg0',
+      'https://images.pexels.com/photos/4122349/pexels-photo-4122349.jpeg',
+    ],
+  },
+  142: {
+    name: '5-Star Bhutan Cultural Tour - 4N/5D',
+    priceHTML: '&#8377;55,999',
+    destination: 'Thimphu, Paro - Bhutan',
+    images: [
+      'https://images.unsplash.com/photo-1729174518995-8c4546b3dd53?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGJodXRhbnxlbnwwfHwwfHx8MA%3D%3D',
+      'https://plus.unsplash.com/premium_photo-1697729729075-3e56242aef49?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGJodXRhbnxlbnwwfHwwfHx8MA%3D%3D',
+      'https://media.istockphoto.com/id/914497740/photo/punakha-dzong-monastery-punakha-bhutan.webp?a=1&b=1&s=612x612&w=0&k=20&c=DzhLJiIH2g6m1oTa-yX7yh5fOSShivCnRBvIOJBiz3U=',
+      'https://media.istockphoto.com/id/2169401466/photo/scenic-view-of-mountains-against-sky.webp?a=1&b=1&s=612x612&w=0&k=20&c=KcFA1km-zGgBgw84E8cKUhf3v4W4xPThQs05kSWRg1I=',
+    ],
+  },
+  143: {
+    name: '3-Star Bhutan Monastery Trail - 5N/6D',
+    priceHTML: '&#8377;47,999',
+    destination: 'Thimphu, Paro, Punakha - Bhutan',
+    images: [
+      'https://images.pexels.com/photos/34646718/pexels-photo-34646718.jpeg',
+      'https://images.pexels.com/photos/16524362/pexels-photo-16524362.jpeg',
+      'https://images.pexels.com/photos/6904721/pexels-photo-6904721.jpeg',
+      'https://images.pexels.com/photos/10984694/pexels-photo-10984694.jpeg',
+    ],
+  },
+  144: {
+    name: '4-Star Bhutan Monastery Trail - 5N/6D',
+    priceHTML: '&#8377;53,999',
+    destination: 'Thimphu, Paro, Punakha - Bhutan',
+    images: [
+      'https://images.pexels.com/photos/28641110/pexels-photo-28641110.jpeg',
+      'https://images.pexels.com/photos/33345371/pexels-photo-33345371.jpeg',
+      'https://images.pexels.com/photos/11960926/pexels-photo-11960926.jpeg',
+      'https://images.pexels.com/photos/30170172/pexels-photo-30170172.jpeg',
+    ],
+  },
+  145: {
+    name: '5-Star Bhutan Monastery Trail - 5N/6D',
+    priceHTML: '&#8377;62,999',
+    destination: 'Thimphu, Paro, Punakha - Bhutan',
+    images: [
+      'https://images.pexels.com/photos/33296797/pexels-photo-33296797.jpeg',
+      'https://images.pexels.com/photos/680677/pexels-photo-680677.jpeg',
+      'https://images.pexels.com/photos/33358042/pexels-photo-33358042.jpeg',
+      'https://images.pexels.com/photos/17711917/pexels-photo-17711917.jpeg',
+    ],
+  },
+  146: {
+    name: '3-Star Bhutan Himalayan Adventure - 6N/7D',
+    priceHTML: '&#8377;52,999',
+    destination: 'Thimphu, Paro, Punakha, Wangdue - Bhutan',
+    images: [
+      'https://images.pexels.com/photos/11960926/pexels-photo-11960926.jpeg',
+      'https://images.pexels.com/photos/30170172/pexels-photo-30170172.jpeg',
+      'https://images.pexels.com/photos/11598125/pexels-photo-11598125.jpeg',
+      'https://images.pexels.com/photos/31440853/pexels-photo-31440853.jpeg',
+    ],
+  },
+  147: {
+    name: '4-Star Bhutan Himalayan Adventure - 6N/7D',
+    priceHTML: '&#8377;59,999',
+    destination: 'Thimphu, Paro, Punakha, Wangdue - Bhutan',
+    images: [
+      'https://images.pexels.com/photos/34680568/pexels-photo-34680568.jpeg',
+      'https://images.pexels.com/photos/2869135/pexels-photo-2869135.jpeg',
+      'https://images.pexels.com/photos/5966251/pexels-photo-5966251.jpeg',
+      'https://images.pexels.com/photos/5011717/pexels-photo-5011717.jpeg',
+    ],
+  },
+  148: {
+    name: '5-Star Bhutan Himalayan Adventure - 6N/7D',
+    priceHTML: '&#8377;69,999',
+    destination: 'Thimphu, Paro, Punakha, Wangdue - Bhutan',
+    images: [
+      'https://images.pexels.com/photos/33274157/pexels-photo-33274157.jpeg',
+      'https://images.pexels.com/photos/16524362/pexels-photo-16524362.jpeg',
+      'https://images.pexels.com/photos/29000349/pexels-photo-29000349.jpeg',
+      'https://images.pexels.com/photos/33345371/pexels-photo-33345371.jpeg',
+    ],
+  },
+  149: {
+    name: 'Bhutan Complete Experience - 7N/8D',
+    priceHTML: '&#8377;65,999',
+    destination: 'Thimphu, Paro, Punakha, Bumthang - Bhutan',
+    images: [
+      'https://images.pexels.com/photos/16492568/pexels-photo-16492568.jpeg',
+      'https://images.pexels.com/photos/31514888/pexels-photo-31514888.jpeg',
+      'https://images.pexels.com/photos/7967949/pexels-photo-7967949.jpeg',
+      'https://images.pexels.com/photos/33274157/pexels-photo-33274157.jpeg',
+    ],
   },
   // Kashmir Package Details (121-130)
   121: {
